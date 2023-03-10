@@ -1,5 +1,11 @@
 # Using OpenRefine with the *Whaling Crew List*
 
+**Contents:**
+- [1. Understanding the Dataset](##_1._Understanding_the_Dataset)
+- [2. Introducing OpenRefine](##_2._Introducing_OpenRefine)
+- [3. Dataset Evaluation](##_3._Dataset_Evaluation)
+- [4. Dataset Cleaning](##_4._Dataset_Cleaning)
+
 ## 1. Understanding the Dataset
 - Whaling Crew List Database from the New Bedford Whaling Museum[^1]
 - Importance of context, provenance, production
@@ -12,7 +18,7 @@
     |Lay  |  For a given voyage, each man receives a lay or percentage of the profits, instead of wages. The size of the lay depends upon his rank and speciality: the captain always earns the largest share, usually around 1/8th, while a green hand (inexperienced crewman) earns the least, often as little as 1/350th. 
     Rank | Includes both officers and crew, in descending order: Captain, officers (usually three or four mates, each commanding a whaleboat), boatsteerers (these are the harpooneers), specialists (blacksmith, carpenter, cook, cooper–i.e. caskmaker–, and steward), foremast hands (ordinary crewmen).
 
-## 2. OpenRefine
+## 2. Introducing OpenRefine
 - Excel that doesn’t suck
 - can manipulate much bigger datasets
 - non-destructive: [OpenRefine](https://openrefine.org) project stores not just data, but history of changes
@@ -20,7 +26,7 @@
 - extensive support for import and export formats
 - besides advanced manipulation tools it supports basic but very useful visualization (and filtering) through facets
 
-## 3. Initial Exploration/Assessment
+## 3. Dataset Evaluation
 - show how quick look can help you see gaps in data and patterns - :left_speech_bubble: better in Excel?
 - Use text facets to check columns for consistency:
     - **`LastName`** and **`FirstName`**:
@@ -172,7 +178,7 @@
     - **`VesselNumber`**: 
         - Values prefixed with `AS`
 
-## 4. Data Cleaning
+## 4. Dataset Cleaning
 - **`Age`**: 
     - Go to record (from facet) and move `Portugal` to `Residence` column
     - Convert to number: *`Edit cells -> Common transforms -> To number`*
