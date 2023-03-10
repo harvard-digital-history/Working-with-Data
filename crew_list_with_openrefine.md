@@ -21,10 +21,10 @@
 - besides advanced manipulation tools it supports basic but very useful visualization (and filtering) through facets
 
 ## 3. Initial Exploration/Assessment
-- show how quick look can help you see gaps in data and patterns - <mark>better in Excel?</mark>
+- show how quick look can help you see gaps in data and patterns - :left_speech_bubble: better in Excel?
 - Use text facets to check columns for consistency:
     - **`LastName`** and **`FirstName`**:
-        - Extracted (poorly) from `FullName` – <mark>not worth the bother?</mark>
+        - Extracted (poorly) from `FullName` – :left_speech_bubble: not worth the bother?
     - **`Vessel`**:
         - Shockingly good!
     - **`Rig`**:
@@ -223,7 +223,7 @@
                 (\d{1,2})\/(\d{1,2})\/(\d{2})$ -> $1/$2/19$3
                 ```
         - Without RegEx:
-            - <mark>TBD</mark>
+            - :left_speech_bubble: TBD
         - Next we convert the column to date format: *`Edit cells -> Common transforms -> To date`*
         - Create a timeline facet — notice `Non-time` category, these are the problem dates
         - Filter by that category - 281 of them
@@ -242,6 +242,7 @@
     - **`Skin`** / **`Hair`** / **`Eye`**:
         - Create a text facet – then run *`cluster`*
         - *`Merge and recluster`* as necesary
+
 
 [^1]: https://www.whalingmuseum.org/online_exhibits/crewlist/
 [^2]: https://www.whalingmuseum.org/online_exhibits/crewlist/about.php
