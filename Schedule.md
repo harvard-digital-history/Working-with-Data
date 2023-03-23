@@ -2,31 +2,28 @@
 
 This is a two-day workshop with three hours of instruction on each day.
 
-## Day 1: Introductory Skills
+<details open>
+<summary><h2>Day 1</h2></summary>
 
-### 1.1. Introduction
-- Plan for workshop
-- Data processing workflow reminder
-- Things to flag: 
-    - scraping
-    - APIs
-    - Ask Librarian!
+- #### 9:00 - Introduction
+    - Workshop plan
+    - Refresher: Data processing workflow, data models, and data types
 
-### 1.2. Introducing the Whaling Crew List and OpenRefine
-[Walkthrough](/Documents/1.2_Crew_List_and_OpenRefine.md)
+- #### 9:15 - The Dataset and the tool
+    - [Understanding the Dataset](/Documents/Understanding_the_dataset.md)
+    - [Introduction to OpenRefine](/Documents/Introduction_to_OpenRefine.md)
 
-### 1.3. Evaluating the Dataset
-[Walkthrough](/Documents/1.3_Evaluating_the_Dataset.md)
+- #### 9:30 - Evaluating the dataset &nbsp; [:information_source:](/Documents/Evaluating_the_dataset.md)
+- #### 10:00 - Break
+- #### 10:05 - Cleaning the dataset &nbsp; [:information_source:](/Documents/Cleaning_the_dataset.md)
+- #### 11:25 - Break
+- #### 11:30 - Overview of programming languages
 
-### 1.4. Cleaning the Dataset
-[Walkthrough](/Documents/1.4_Cleaning_the_Dataset.md)
+</details>
 
-<br/>
+<details open>
+<summary><h2>Day 2</h2></summary>
 
-| :bulb: | Homework: Cleaning dataset for next workshop?
--|-
+- ### TBA
 
-## Day 2: Advanced Skills
-
-### 2.1. Revision?
-
+</details>
