@@ -1,0 +1,587 @@
+VoyageID	Lat	Lon	Day	Month	Year	Jul	TypeOfProduct	ProductAmount	UnitOfMeasurement	HandlingDescription	CommentMP	Vessel	VesselID	sequence	VIDdate
+AV00434	42.04	-70.2	2	9	1890	106165	sperm	200	bbls		last entry, voyage total	Alcyone	AS0798	1	AV00434:106165
+AV00435	18.4	-69.9	27	3	1891	106371	humpback oil	145	gallons		taken onboard from Golden City; half of whale taken in company	Alcyone	AS0798	2	AV00435:106371
+AV00435	18.4	-69.9	28	3	1891	106372	oil	160	gallon cask (?)		brought aboard from Golden CIty; type of oil uncertain--maybe humpback	Alcyone	AS0798	3	AV00435:106372
+AV00455	21.5	-157.95	13	4	1823	81551	oil	1700	bbls		note on this day: At Oahu coopering our 1700 barrels	Alexander	AS0005	4	AV00455:081551
+AV00455	21.5	-157.95	13	4	1823	81551	oil	1700	bbls		note on this day: At Oahu coopering our 1700 barrels	Alexander	AS0005	5	AV00455:081551
+AV00455	37.33	-146.66	18	8	1823	81678		NA			on this date log note: 24 months out with oil & blubber to the amount of 2300 bbls	Alexander	AS0005	6	AV00455:081678
+AV00455	37.4	-149.7	13	9	1823	81704		NA			on this date log note: This makes 1100 bbls that we have got since the 10 of July 1823	Alexander	AS0005	7	AV00455:081704
+AV00775	33.88	-72.98	19	7	1877	101372	sperm oil	14	bbls		the head from the Gracie M. Parker's whale--boiled for halfs	Amelia	AS0061	8	AV00775:101372
+AV00775	41.64	-70.93	26	7	1877	101379	oil	250	bbls		as written in final entry, 7/26: 7 months voyage, 250 bbls	Amelia	AS0061	9	AV00775:101379
+AV00803	NA	NA	4	4	1857	93961		NA			Offloaded unspecified amount of oil to a schooner.	NA	AS0000	10	AV00803:093961
+AV00803	NA	NA	27	7	1857	94075	junk	277	lbs		Sold to Bark Matta of New Bedford today.	NA	AS0000	11	AV00803:094075
+AV00803	NA	NA	9	10	1857	94149	whale oil	80	bbls		Stowed down today.	NA	AS0000	12	AV00803:094149
+AV00803	NA	NA	21	10	1857	94161	junk	235	lbs		Sold to Bark Lady Suffolk of beverly.	NA	AS0000	13	AV00803:094161
+AV01286	-20.26	57.46	31	7	1792	70339	oil	NA			breaking up our hold after oil our Captain sold onshore... [over next three days, each day: discharged a boatload of oil	Asia	AS0916	14	AV01286:070339
+AV01286	-20.26	57.46	11	10	1792	70411	oil	26	casks		at Isle de France (Mauritius) sent 26 cask of oil ashore	Asia	AS0916	15	AV01286:070411
+AV01286	-20.26	57.46	16	10	1792	70416	oil	NA			at Isle de France (Mauritius) loaded a boat with oil and sent it ashore	Asia	AS0916	16	AV01286:070416
+AV01286	21.8	-71.75	11	1	1794	70868	oil	2	tons		at Turks and Caicos (?) sold about 2 tons of oil	Asia	AS0916	17	AV01286:070868
+AV01286	21.8	-71.75	13	1	1794	70870	oil	20	bbls		sold about 20 bbls oil	Asia	AS0916	18	AV01286:070870
+AV01286	21.8	-71.75	14	1	1794	70871	oil	10	bbls		sold about 10 bbls oil	Asia	AS0916	19	AV01286:070871
+AV01286	21.8	-71.75	15	1	1794	70872	oil	7	casks		employed stowing down spalm oil and hoisting up some right whale, sold seven casks	Asia	AS0916	20	AV01286:070872
+AV01286	21.8	-71.75	17	1	1794	70874	oil	28	casks		hoisting up oil, sold about 28 casks	Asia	AS0916	21	AV01286:070874
+AV01286	21.8	-71.75	18	1	1794	70875	oil	25	casks		sold 25 casks	Asia	AS0916	22	AV01286:070875
+AV01286	21.8	-71.75	20	1	1794	70877	oil	25	casks		sold 25 casks	Asia	AS0916	23	AV01286:070877
+AV01286	21.8	-71.75	22	1	1794	70879	oil	1	bbls		sold 1 bbl oil	Asia	AS0916	24	AV01286:070879
+AV01286	21.8	-71.75	23	1	1794	70880	oil	2	casks		sold 2 cask of oil	Asia	AS0916	25	AV01286:070880
+AV01488	18.03	-107.8	20	1	1820	80372	oil	900	bbls		count after stowing	Balaena	AS0064	26	AV01488:080372
+AV01488	15.5	-102.99	19	2	1820	80402	oil	1000	bbls		count after stowing	Balaena	AS0064	27	AV01488:080402
+AV01488	10.45	-95.8	8	4	1820	80451	oil	1150	bbls		count, after stowed down	Balaena	AS0064	28	AV01488:080451
+AV01488	-5.16	-96.5	21	12	1820	80708	oil	1730	bbls		count, after stowing down	Balaena	AS0064	29	AV01488:080708
+AV01488	-8.48	-112	4	3	1821	80781	sperm oil	2150	bbls		count, after stowing down oil	Balaena	AS0064	30	AV01488:080781
+AV01581	30.61	-25.46	13	9	1854	93027	sperm oil	840	gallons		Stowed down 840 gallons.	Barclay	AS0067	31	AV01581:093027
+AV01581	-36.7	-10.06	8	12	1854	93113	right whale oil	45	bbls		This is the Barclay's share from whale caught in company with Ocmulgee 	Barclay	AS0067	32	AV01581:093113
+AV01581	-38.25	-18.21	22	12	1854	93127	right whale oil	95	bbls		Stowed down 95 bbls of oil.	Barclay	AS0067	33	AV01581:093127
+AV01581	-37.41	-19.06	31	12	1854	93136	right whale	132	bbls			Barclay	AS0067	34	AV01581:093136
+AV01581	-35.1	-3.33	6	11	1855	93446	oil	100	bbls			Barclay	AS0067	35	AV01581:093446
+AV01581	-15.93	-5.7	28	3	1856	93589		NA				Barclay	AS0067	36	AV01581:093589
+AV01581	41.64	-70.93	24	8	1857	94103	bone	2100	lbs			Barclay	AS0067	37	AV01581:094103
+AV01581	41.64	-70.93	24	8	1857	94103	Whale oil	1016			No unit specified.	Barclay	AS0067	38	AV01581:094103
+AV01581	41.64	-70.93	24	8	1857	94103	Sperm oil	410			No other mention whatsoever of oil yield at any point in these logbook pages. No unit specified for voyage totals.	Barclay	AS0067	39	AV01581:094103
+AV01757	-15.88	-5.6	19	11	1859	94920	sperm oil	120	bbls	voyage total to date	120 sperm, 80 whale after 1 year out	Benjamin Franklin	AS0716	40	AV01757:094920
+AV01804	31.05	-57.56	18	5	1916	115554	oil	2	casks	stowed		Bertha	AS0440	41	AV01804:115554
+AV01804	31.15	-51.03	22	5	1916	115558	oil	2	casks	stowed		Bertha	AS0440	42	AV01804:115558
+AV01804	34.4	-54.48	23	8	1916	115651	oil	15	bbls	part of product from whales on 8/20		Bertha	AS0440	43	AV01804:115651
+AV01804	34.8	-53.95	24	8	1916	115652	oil	55	bbls	from whales taken on 8/20		Bertha	AS0440	44	AV01804:115652
+AV01804	38.33	-57	31	8	1916	115659	oil	56	bbls	from whales taken 8/28		Bertha	AS0440	45	AV01804:115659
+AV01853	21.03	-157.45	8	3	1853	92473	oil	1000	bbls		put onboard the ship C Mallory for shipping home	Betsey Williams	AS0074	46	AV01853:092473
+AV02118	8.05	-19.56	6	12	1826	82884	oil	40	bbls		from taken whale 1	By Chance	AS1015	47	AV02118:082884
+AV02118	39.63	-28.05	7	5	1827	83036	oil	45	bbls		40 bbls from body, about 5 bbls from the head, lost the rest 	By Chance	AS1015	48	AV02118:083036
+AV02118	38.58	-28.72	15	6	1827	83075		NA				By Chance	AS1015	49	AV02118:083075
+AV02143	-12	-77.2	18	11	1831	84692	Sperm oil	14	bbls	sold	Sold at Port of Callio	Cadmus	AS1019	50	AV02143:084692
+AV02143	-12	-77.2	18	11	1831	84692	blackfish oil	10	bbls	sold	Sold at Port of Callio	Cadmus	AS1019	51	AV02143:084692
+AV02143	-0.3	-135.58	16	2	1832	84782	oil	120	bbls	stowed	Finished Stowing Down Oil on Feb 16, 1832	Cadmus	AS1019	52	AV02143:084782
+AV02143	-0.68	-138.35	30	3	1832	84825	oil	985	bbls	stowed	We have stowed down 985 barrels of oil, 3/30/1832	Cadmus	AS1019	53	AV02143:084825
+AV02143	31.33	176.33	28	7	1832	84945	Sperm oil	1400	bbls	stowed	We have stowed down 1400 barrels of Sperm Oil, 7/28/1832	Cadmus	AS1019	54	AV02143:084945
+AV02143	34.03	-178.59	14	8	1832	84962	Sperm oil	1500	bbls	running total	We have now onboard 1500 barrels of Sperm Oil	Cadmus	AS1019	55	AV02143:084962
+AV02143	-35.06	177.52	6	12	1833	85441	oil	16	bbls	offloaded	Took on shore 16 barrels of Oil	Cadmus	AS1019	56	AV02143:085441
+AV02143	-37.68	-173.29	28	12	1833	85463	oil	2400	bbls	running total	We have a full cargo of oil onboard 2400 barrels	Cadmus	AS1019	57	AV02143:085463
+AV02280	41.2	-72.05	25	4	1847	90329	whale oil	1987	bbls		record of oil totals in back of log	Candace	AS1029	58	AV02280:090329
+AV02280	41.2	-72.05	25	4	1847	90329	sperm oil	94	bbls			Candace	AS1029	59	AV02280:090329
+AV02316	-15.93	-5.7	2	4	1892	106743	oil	NA			oil stowed onto Schnr Lottie Beard (presumably); no amount specified	Canton II	AS0087	60	AV02316:106743
+AV02316	-9.68	9.76	27	7	1892	106859	sperm oil	6	bbls		split struck/taken ID 17 with Agate: each take 6.5 bbls	Canton II	AS0087	61	AV02316:106859
+AV02316	-15.93	-5.7	13	3	1893	107088	oil	NA			on this day commenced to take the Bertha's oil; 441 bbls; finished 3/17	Canton II	AS0087	62	AV02316:107088
+AV02476	-18.1	-3.21	5	5	1844	89244	sperm oil	93	bbls		stowed down	Catherwood	AS1057	63	AV02476:089244
+AV02476	-18.06	-3.01	7	6	1844	89277	sperm oil	101	bbls		stowed down	Catherwood	AS1057	64	AV02476:089277
+AV02476	-17	-2.66	16	6	1844	89286	sperm oil	60	bbls		stowed down	Catherwood	AS1057	65	AV02476:089286
+AV02476	-18.53	-36	2	10	1844	89394	sperm oil	102	bbls		stowed down	Catherwood	AS1057	66	AV02476:089394
+AV02476	-17.66	-36.83	8	10	1844	89400	sperm oil	34	bbls		stowed down	Catherwood	AS1057	67	AV02476:089400
+AV02476	-18.48	-36.08	23	10	1844	89415	sperm oil	122	bbls		stowed down	Catherwood	AS1057	68	AV02476:089415
+AV02476	-18.43	-3.83	29	4	1845	89603	sperm oil	80	bbls		stowed down	Catherwood	AS1057	69	AV02476:089603
+AV02696	-34.15	70.56	6	11	1844	89429	Right Whale oil	130	bbls	stowed		Charles Phelps	AS1085	70	AV02696:089429
+AV02696	-34.08	71.91	24	11	1844	89447	Right Whale oil	95	bbls	stowed		Charles Phelps	AS1085	71	AV02696:089447
+AV02696	-37.31	74.81	9	12	1844	89462	Right Whale oil	120	bbls	stowed		Charles Phelps	AS1085	72	AV02696:089462
+AV02696	-44.9	129.41	15	1	1845	89499	Right Whale oil	66	bbls	stowed		Charles Phelps	AS1085	73	AV02696:089499
+AV02696	13.21	-152.45	10	4	1845	89584	sperm oil	40	bbls	stowed		Charles Phelps	AS1085	74	AV02696:089584
+AV02696	51.83	166.05	27	6	1845	89662	Right Whale oil	140	bbls	stowed		Charles Phelps	AS1085	75	AV02696:089662
+AV02696	53.65	163.5	18	7	1845	89683	whale oil	95	bbls	stowed	from dead whale taken 7/14/1845	Charles Phelps	AS1085	76	AV02696:089683
+AV02696	54.77	161.96	28	8	1845	89724		105	bbls	stowed		Charles Phelps	AS1085	77	AV02696:089724
+AV02696	56.5	163.66	19	9	1845	89746	whale oil	110	bbls	stowed		Charles Phelps	AS1085	78	AV02696:089746
+AV02696	56.4	163.6	20	9	1845	89747	whale oil	25	bbls	stowed		Charles Phelps	AS1085	79	AV02696:089747
+AV02696	56.52	163.49	22	9	1845	89749	whale oil	108	bbls	stowed		Charles Phelps	AS1085	80	AV02696:089749
+AV02696	56.25	163.11	29	9	1845	89756	whale oil	120	bbls	stowed		Charles Phelps	AS1085	81	AV02696:089756
+AV02696	22.31	-108.3	14	1	1846	89863	blackfish oil	5	bbls	stowed		Charles Phelps	AS1085	82	AV02696:089863
+AV02696	53.46	-145.74	1	7	1846	90031	right whale oil	160	bbls	stowed		Charles Phelps	AS1085	83	AV02696:090031
+AV02696	-47.43	-76.88	14	12	1846	90197	right whale oil	45	bbls	stowed	reported 70bbls from whale, only stowed 45	Charles Phelps	AS1085	84	AV02696:090197
+AV02696	-47.72	-76.85	20	12	1846	90203	right whale oil	50	bbls	run to the tanks		Charles Phelps	AS1085	85	AV02696:090203
+AV02696	-47.96	-77.38	23	12	1846	90206	right whale oil	155	bbls	stowed		Charles Phelps	AS1085	86	AV02696:090206
+AV02883	-2.78	-30.76	24	10	1856	93799	sperm oil	5	casque		stowed down	Cicero	AS0096	87	AV02883:093799
+AV02883	-9.06	-79.99	19	1	1857	93886	sperm oil	6	casque		stowed down	Cicero	AS0096	88	AV02883:093886
+AV02883	59.2	155.54	9	7	1857	94057	oil	60	bbls		stowed down	Cicero	AS0096	89	AV02883:094057
+AV02883	20.56	-156.64	27	10	1857	94167	sperm oil	1471	gallons		oil count	Cicero	AS0096	90	AV02883:094167
+AV02883	20.56	-156.64	27	10	1857	94167	whale oil	4673	gallons		oil count	Cicero	AS0096	91	AV02883:094167
+AV02883	20.56	-156.64	28	10	1857	94168	sperm oil	2	casks		to the Mary Sutton	Cicero	AS0096	92	AV02883:094168
+AV02883	20.56	-156.64	28	10	1857	94168	whale oil	1	casks		to the Mary Sutton	Cicero	AS0096	93	AV02883:094168
+AV02883	55.53	139.43	11	8	1858	94455	whale oil	100	bbls		stowed down	Cicero	AS0096	94	AV02883:094455
+AV02883	56.8	142.81	27	8	1858	94471	whale oil	62	bbls		stowed down	Cicero	AS0096	95	AV02883:094471
+AV02883	57.04	143.45	30	8	1858	94474	whale oil	40	bbls		stowed down	Cicero	AS0096	96	AV02883:094474
+AV02883	57.99	145.98	11	9	1858	94486	whale oil	45	bbls		stowed down	Cicero	AS0096	97	AV02883:094486
+AV02883	58.47	150.68	2	10	1858	94507	whale oil	1300	gallons		received from Ship Sharon, stowed down	Cicero	AS0096	98	AV02883:094507
+AV02883	54.06	140.16	6	9	1859	94846	whale oil	120	bbls		stowed down	Cicero	AS0096	99	AV02883:094846
+AV02883	41.64	-70.93	16	5	1860	95099	whale oil	1083	bbls			Cicero	AS0096	100	AV02883:095099
+AV02883	41.64	-70.93	16	5	1860	95099	whale bone	13500	lbs			Cicero	AS0096	101	AV02883:095099
+AV02883	41.64	-70.93	16	5	1860	95099	sperm oil	226	bbls			Cicero	AS0096	102	AV02883:095099
+AV02883	NA	NA	24	4	1877	101286	whale oil	120	bbls			NA	AS0000	103	AV02883:101286
+AV02883	NA	NA	5	10	1877	101450	ambergris	140	lbs		out of one of the whales taken today	NA	AS0000	104	AV02883:101450
+AV02884	54.75	136.5	15	8	1861	95555	whale oil	39	bbls		stowed down	Cicero	AS0096	105	AV02884:095555
+AV02884	20.56	-156.64	7	11	1861	95639	sperm oil	2285	gallons		to steamer bound to Wahoo	Cicero	AS0096	106	AV02884:095639
+AV02884	20.56	-156.64	10	11	1861	95642	bowhead oil	700	gallons		offloaded to steamer bound to Wahoo	Cicero	AS0096	107	AV02884:095642
+AV02884	21.3	-157.9	2	12	1862	96029	whale bone	5386	lbs		given to the Nassau	Cicero	AS0096	108	AV02884:096029
+AV02884	21.3	-157.9	3	12	1862	96030	sperm oil	306	gallons		offloaded to the Nassau	Cicero	AS0096	109	AV02884:096030
+AV02884	21.3	-157.9	3	12	1862	96030	whale oil	82	casks		offloaded to the Nassau	Cicero	AS0096	110	AV02884:096030
+AV02884	21.3	-157.9	9	12	1863	96401	whale oil	21976	gallons		offloading to the Annie Mary	Cicero	AS0096	111	AV02884:096401
+AV02884	21.3	-157.9	9	12	1863	96401	whale bone	3492	lbs		to the Annie Mary	Cicero	AS0096	112	AV02884:096401
+AV02884	21.3	-157.9	9	12	1863	96401	sperm oil	1310	gallons		to the Annie Mary	Cicero	AS0096	113	AV02884:096401
+AV02884	0.41	167.99	23	1	1864	96446	sperm oil	75	bbls		stowed down	Cicero	AS0096	114	AV02884:096446
+AV02884	21.3	-157.9	31	10	1864	96728	whale oil	4953	gallons		taken from the Bark Merlin	Cicero	AS0096	115	AV02884:096728
+AV02884	21.3	-157.9	3	11	1864	96731	whale oil	10418	gallons		taken from the Helen Snow	Cicero	AS0096	116	AV02884:096731
+AV03621	33.61	-39.3	22	8	1875	100675	oil	2705	gallons	Stowed Down		David A. Small	AS1191	117	AV03621:100675
+AV03621	35.78	-35.35	29	8	1875	100682	oil	1071	gallons	Stowed Down		David A. Small	AS1191	118	AV03621:100682
+AV04049	NA	NA	26	4	1837	86678		NA				NA	AS0000	119	AV04049:086678
+AV04049	-5	-81.1	30	4	1837	86682	sperm oil	5	gallons		and 3 gal whale oil delivered to Higginson in Paita	Edward Quesnel	AS1251	120	AV04049:086682
+AV04049	-12.4	-84	6	1	1838	86933		1750	bbls		reported like spoken	Edward Quesnel	AS1251	121	AV04049:086933
+AV04143	38.58	-28.72	14	9	1865	97046		NA			at Fayal: Barge came off & took our oil, 16 packages, about 100 bbls for shipment home	Eliza	AS0193	122	AV04143:097046
+AV04582	20.56	-156.64	16	3	1848	90655	blackfish oil	0	unknown		sold unknown amount	Erie	AS2753	123	AV04582:090655
+AV04582	20.67	-156.65	28	3	1848	90667	sperm oil	4	bbls		sold	Erie	AS2753	124	AV04582:090667
+AV04582	20.56	-156.64	10	10	1848	90863	whale oil	787	gallons		sold	Erie	AS2753	125	AV04582:090863
+AV04582	21.5	-157.95	17	10	1848	90870	whale oil	970	gallons		sold	Erie	AS2753	126	AV04582:090870
+AV04582	21.5	-157.95	17	10	1848	90870	whale oil	970	gallons		sold	Erie	AS2753	127	AV04582:090870
+AV04688	53.93	137.55	22	9	1858	94497	unknown	150	bbls		today stowed down 150 bbls from how many whales I am unsure	Euphrates	AS0175	128	AV04688:094497
+AV04688	20.56	-156.64	26	11	1858	94562	unknown	220	bbls		put on board ship Yarvick (?)	Euphrates	AS0175	129	AV04688:094562
+AV04688	21.08	-124.2	19	3	1860	95041	unknown oil	33	bbls		Not sure where the oil came from	Euphrates	AS0175	130	AV04688:095041
+AV04688	58.63	151.88	19	6	1860	95133	whale	151	bbls		Belive oil tried out from 6/11 and 6/12	Euphrates	AS0175	131	AV04688:095133
+AV04694	38.96	-60.93	4	9	1866	97401	dolphin	2	fish		caught	Europa	AS1328	132	AV04694:097401
+AV04694	-15.93	-34.86	28	10	1866	97455	porpoise	1	fish		caught	Europa	AS1328	133	AV04694:097455
+AV04694	-41.03	-57.33	21	11	1866	97479	oil	578	gallons		stowed down	Europa	AS1328	134	AV04694:097479
+AV04694	-50.78	-67.93	14	12	1866	97502	oil	2893	gallons		stowed down our oil amounting to the product amount	Europa	AS1328	135	AV04694:097502
+AV04694	-50.8	-68.13	22	12	1866	97510	oil	3395	gallons	stowed	stowed down all of our oil making product amount	Europa	AS1328	136	AV04694:097510
+AV04694	-36.01	-74	7	2	1867	97557	oil	98	gallons		trading and recruiting	Europa	AS1328	137	AV04694:097557
+AV04694	-25.42	-81.26	20	2	1867	97570	various kinds	300	fish		fishing off the coast and caught food	Europa	AS1328	138	AV04694:097570
+AV04694	-23.4	-83	22	2	1867	97572	sperm oil	2863	gallons		ready to send home, not sure if this is the total amount or just from last whale	Europa	AS1328	139	AV04694:097572
+AV04694	21.3	-157.9	11	4	1867	97620	oil	1	bbls		landed all of our oil to ship ly the Syren  don't know exact product amount	Europa	AS1328	140	AV04694:097620
+AV04694	21.3	-157.9	12	4	1867	97621	bone	1			sent our bone onboard the Syren	Europa	AS1328	141	AV04694:097621
+AV04694	60.66	162.56	31	5	1867	97670	coal	1			Captain went in with 4 boats and brought off a lot of coal	Europa	AS1328	142	AV04694:097670
+AV04694	60.86	163.3	1	6	1867	97671	coal	1				Europa	AS1328	143	AV04694:097671
+AV04694	60.8	162.8	20	7	1867	97720	oil	80	bbls		stowed down	Europa	AS1328	144	AV04694:097720
+AV04694	60.8	162.8	27	7	1867	97727	oil	115	bbls		stowed down from the last whale we took	Europa	AS1328	145	AV04694:097727
+AV04694	60.8	162.8	7	8	1867	97738	oil	58	bbls		stowed down	Europa	AS1328	146	AV04694:097738
+AV04694	55.5	142.9	27	8	1867	97758	oil	26	bbls		stowed down, not sure of product amt	Europa	AS1328	147	AV04694:097758
+AV04694	53.99	137.6	3	9	1867	97765	oil	3930	gallons		from the whale took on the 29th	Europa	AS1328	148	AV04694:097765
+AV04694	54.66	137.13	17	9	1867	97779	oil	3606	gallons		stowed down	Europa	AS1328	149	AV04694:097779
+AV04694	54.8	137.03	20	9	1867	97782	oil	235	bbls		stowed down	Europa	AS1328	150	AV04694:097782
+AV04694	21.3	-157.9	13	11	1867	97836	bone	107	bundles	sent home on ship Centurion (?) of NB	11642 lbs bone	Europa	AS1328	151	AV04694:097836
+AV04694	27.46	-151.25	8	12	1867	97861	oil	65	bbls		stowed down	Europa	AS1328	152	AV04694:097861
+AV04694	29.37	-118.91	23	12	1867	97876	porpoise	2	fish		caught	Europa	AS1328	153	AV04694:097876
+AV04694	22.75	-109.8	15	1	1868	97899	oil	30	bbls	stowed		Europa	AS1328	154	AV04694:097899
+AV04694	21.55	-106.5	11	2	1868	97926	oil	1			stowed down our oil but did not say how much	Europa	AS1328	155	AV04694:097926
+AV04694	19.96	-109	23	2	1868	97938		1	fish		caught a lot of fish	Europa	AS1328	156	AV04694:097938
+AV04694	19.42	-110.21	24	2	1868	97939		1	fish		caught a lot of fish	Europa	AS1328	157	AV04694:097939
+AV04694	61.68	160.21	13	6	1868	98049	oil	22	bbls		stowing down	Europa	AS1328	158	AV04694:098049
+AV04694	60.89	162.82	1	7	1868	98067	oil	59	bbls		stowed down	Europa	AS1328	159	AV04694:098067
+AV04694	61.45	163	8	7	1868	98074	oil	59	bbls		stowed down, can't read barrels nmbr	Europa	AS1328	160	AV04694:098074
+AV04694	61.46	163	20	7	1868	98086	oil	45	bbls		stowed down	Europa	AS1328	161	AV04694:098086
+AV04694	59.49	157.12	29	7	1868	98095	oil	10	bbls		stowed down	Europa	AS1328	162	AV04694:098095
+AV04694	21.3	-157.9	10	11	1868	98199	bone	3013	lbs		put onboard ship Ceylon bound for New Bedford	Europa	AS1328	163	AV04694:098199
+AV04694	21.3	-157.9	17	11	1868	98206	oil	1			shipping our oil by the bark George of New Bedford	Europa	AS1328	164	AV04694:098206
+AV04694	-14.84	-148.1	28	12	1868	98247	oil	47	bbls		stowed down	Europa	AS1328	165	AV04694:098247
+AV04694	-10.2	-140.92	29	1	1869	98279	oil	50	bbls		stowed down	Europa	AS1328	166	AV04694:098279
+AV04694	-10.4	-138.67	14	2	1869	98295	porpoise	1	fish		caught	Europa	AS1328	167	AV04694:098295
+AV04694	21.3	-157.9	24	3	1869	98333	oil	3129	gallons		oil to Syrin	Europa	AS1328	168	AV04694:098333
+AV04694	61.68	160.21	6	6	1869	98407	oil	63	bbls		stwed down	Europa	AS1328	169	AV04694:098407
+AV04694	60.8	162.8	20	6	1869	98421	oil	2501	gallons		stowed down	Europa	AS1328	170	AV04694:098421
+AV04694	60.8	162.8	22	6	1869	98423	oil	2307	gallons		stowed down	Europa	AS1328	171	AV04694:098423
+AV04694	60.9	162.83	30	6	1869	98431	oil	1213	gallons		stowed down	Europa	AS1328	172	AV04694:098431
+AV04694	61.01	162.86	28	7	1869	98459	oil	1			stowed down wi no amount given	Europa	AS1328	173	AV04694:098459
+AV04694	54.28	153.18	17	9	1869	98510	oil	68	bbls		stowed down	Europa	AS1328	174	AV04694:098510
+AV04694	52.96	153.5	18	9	1869	98511	oil	69	bbls		stowed down	Europa	AS1328	175	AV04694:098511
+AV04694	29.56	-154.33	7	11	1869	98561	skip jacks	1	fish		caught a number of	Europa	AS1328	176	AV04694:098561
+AV04694	21.3	-157.9	15	11	1869	98569	bone	50	bundles		ship John L Dhrimack, not sure of ship name, bone weighed 5,057 lbs	Europa	AS1328	177	AV04694:098569
+AV04694	0.03	-119.15	9	2	1870	98655	oil	70	bbls		stowed down	Europa	AS1328	178	AV04694:098655
+AV04694	0.03	-119.15	9	2	1870	98655	sperm oil	100	bbls		stowed down	Europa	AS1328	179	AV04694:098655
+AV04694	2.13	-128.16	28	2	1870	98674	oil	85	bbls		stowed down	Europa	AS1328	180	AV04694:098674
+AV04694	2.13	-128.16	28	2	1870	98674	oil	80	bbls			Europa	AS1328	181	AV04694:098674
+AV04694	-0.26	-131.63	7	3	1870	98681	sperm oil	66	bbls		stowed down	Europa	AS1328	182	AV04694:098681
+AV04694	21.3	-157.9	26	3	1870	98700	oil	1			landed all the oil, but gave no quantity	Europa	AS1328	183	AV04694:098700
+AV04694	68.22	-170.93	3	7	1870	98799	walrus	17	animal		lowered and caught	Europa	AS1328	184	AV04694:098799
+AV04694	68.01	-171.04	4	7	1870	98800	walrus	5	animal			Europa	AS1328	185	AV04694:098800
+AV04694	67.8	-171.15	5	7	1870	98801	walrus	12	animal			Europa	AS1328	186	AV04694:098801
+AV04694	67.82	-171.16	6	7	1870	98802	walrus	5	animal			Europa	AS1328	187	AV04694:098802
+AV04694	67.84	-171.18	7	7	1870	98803	walrus	21	animal			Europa	AS1328	188	AV04694:098803
+AV04694	67.94	-171.27	12	7	1870	98808	walrus	14	animal			Europa	AS1328	189	AV04694:098808
+AV04694	67.96	-171.29	13	7	1870	98809	walrus	22	animal			Europa	AS1328	190	AV04694:098809
+AV04694	68	-171.33	15	7	1870	98811	walrus	14	animal			Europa	AS1328	191	AV04694:098811
+AV04694	68	-171.16	16	7	1870	98812	walrus	13	animal			Europa	AS1328	192	AV04694:098812
+AV04694	68.01	-170.83	18	7	1870	98814	walrus	28	animal			Europa	AS1328	193	AV04694:098814
+AV04694	68.02	-170.66	19	7	1870	98815	walrus	1	animal			Europa	AS1328	194	AV04694:098815
+AV04694	68.03	-170.5	20	7	1870	98816	walrus	22	animal			Europa	AS1328	195	AV04694:098816
+AV04694	68.03	-170.33	21	7	1870	98817	walrus	8	animal			Europa	AS1328	196	AV04694:098817
+AV04694	68.04	-170.16	22	7	1870	98818	walrus	8	animal			Europa	AS1328	197	AV04694:098818
+AV04694	68.05	-170	23	7	1870	98819	walrus	8	animal			Europa	AS1328	198	AV04694:098819
+AV04694	68.06	-169.66	25	7	1870	98821	walrus	12	animal			Europa	AS1328	199	AV04694:098821
+AV04694	68.07	-169.5	26	7	1870	98822	walrus	4	animal			Europa	AS1328	200	AV04694:098822
+AV04694	68.07	-169.33	27	7	1870	98823	walrus	28	animal			Europa	AS1328	201	AV04694:098823
+AV04694	68.08	-169.16	28	7	1870	98824	walrus	16	animal			Europa	AS1328	202	AV04694:098824
+AV04694	68.09	-168.83	30	7	1870	98826	walrus	9	animal			Europa	AS1328	203	AV04694:098826
+AV04694	68.81	-167.1	5	8	1870	98832	whale oil	30	gallons	at Lahaina		Europa	AS1328	204	AV04694:098832
+AV04694	68.81	-167.1	5	8	1870	98832	whale oil	10	gallons	exchanged at Lahaina		Europa	AS1328	205	AV04694:098832
+AV04694	68.81	-167.1	5	8	1870	98832	whale oil	40	gallons	exchanged atKauaii		Europa	AS1328	206	AV04694:098832
+AV04694	68.81	-167.1	5	8	1870	98832	sperm oil	3	gallons	at Lahaina		Europa	AS1328	207	AV04694:098832
+AV04694	68.81	-167.1	5	8	1870	98832	whale oil	4	gallons	sold at Honolulu		Europa	AS1328	208	AV04694:098832
+AV04694	68.81	-167.1	5	8	1870	98832	whale oil	98	gallons	sent ahore at Talcahuano		Europa	AS1328	209	AV04694:098832
+AV04694	68.81	-167.1	5	8	1870	98832	whale oil	15	gallons	returned at Lahaina		Europa	AS1328	210	AV04694:098832
+AV04694	70.4	-164.15	10	8	1870	98837	walrus	15	animal			Europa	AS1328	211	AV04694:098837
+AV04694	69.66	-166.33	16	8	1870	98843	oil	80	bbls		stowed down	Europa	AS1328	212	AV04694:098843
+AV04702	22.75	-158.21	8	5	1872	99474		NA				Europa	AS0185	213	AV04702:099474
+AV04702	71.38	-156.5	18	9	1874	100337	oil	25	bbls		stored down	Europa	AS0185	214	AV04702:100337
+AV04702	70.87	-169.73	2	10	1874	100351	oil	80	bbls		stowed down	Europa	AS0185	215	AV04702:100351
+AV04702	20.6	-118.92	8	3	1875	100508	oil	30	bbls		stowed down	Europa	AS0185	216	AV04702:100508
+AV04702	64.63	-166.61	31	8	1875	100684	oil	100	bbls		on deck	Europa	AS0185	217	AV04702:100684
+AV04726	39.42	-31.23	26	6	1847	90391	blackfish oil	1	bbls		at Flores, exchanged 1 bbl blackfish oil for fresh food stuffs	Exchange	AS0181	218	AV04726:090391
+AV04726	39.42	-31.23	7	7	1847	90402	oil	637	gallons		at Flores: sent on shore 3 casks and 5 Bbls of blackfish and humpback oil containing 637 gallons -- to be shipped home?	Exchange	AS0181	219	AV04726:090402
+AV04726	38.33	-30.66	8	7	1847	90403	blackfish & humpback oil	198	gallons		at Flores: sent on shore 1 cask & 1 bbl of oil containing 198 gallons	Exchange	AS0181	220	AV04726:090403
+AV04726	14.9	-24.7	11	9	1847	90468	blackfish oil	2	bbls		at Brava, took ashore to barter for refreshments	Exchange	AS0181	221	AV04726:090468
+AV04726	-27.76	-46.92	26	11	1847	90544	blackfish oil	11	bbls		sent onshore 11 bbl  blackfish oil; traded for foodstuffs	Exchange	AS0181	222	AV04726:090544
+AV04964	-29.39	-10.49	4	10	1835	86108	oil	78	bbls	Stowed Down		Flora	AS1369	223	AV04964:086108
+AV04964	-38.11	7.75	17	12	1835	86182	oil	55	bbls	Stowed Down		Flora	AS1369	224	AV04964:086182
+AV04964	-37.95	7.96	18	12	1835	86183	oil	23	bbls	Stowed Down		Flora	AS1369	225	AV04964:086183
+AV04964	-41.76	9.36	10	1	1836	86206	oil	53	bbls	Stowed Down		Flora	AS1369	226	AV04964:086206
+AV05038	21.78	115.99	3	2	1852	92074	sperm oil	17	bbls			Fortune	AS0224	227	AV05038:092074
+AV05038	21.78	115.99	3	2	1852	92074	polar	32	bbls			Fortune	AS0224	228	AV05038:092074
+AV05038	21.13	-152.44	23	10	1852	92337		NA				Fortune	AS0224	229	AV05038:092337
+AV05038	-33.05	-71.63	3	2	1853	92440		NA			lying at anchor and putting oil in casks and landing them	Fortune	AS0224	230	AV05038:092440
+AV05038	-33.05	-71.63	5	2	1853	92442	sperm oil	18	casks		landed and sold	Fortune	AS0224	231	AV05038:092442
+AV05038	-33.05	-71.63	8	2	1853	92445	polar oil	21	casks			Fortune	AS0224	232	AV05038:092445
+AV05038	-33.05	-71.63	9	2	1853	92446	sperm	4	casks			Fortune	AS0224	233	AV05038:092446
+AV05038	-33.05	-71.63	10	2	1853	92447	polar oil	28	casks			Fortune	AS0224	234	AV05038:092447
+AV05038	-33.05	-71.63	11	2	1853	92448	polar oil	31	casks			Fortune	AS0224	235	AV05038:092448
+AV05038	-33.05	-71.63	12	2	1853	92449		NA			whale bone	Fortune	AS0224	236	AV05038:092449
+AV05038	35.75	163.31	6	5	1853	92532		NA			caught 2 porpoises	Fortune	AS0224	237	AV05038:092532
+AV05038	55.01	138.89	27	8	1853	92645		50	bbls		had leaked out	Fortune	AS0224	238	AV05038:092645
+AV05038	-47.86	-143.91	8	2	1854	92810		NA			caught porpoise	Fortune	AS0224	239	AV05038:092810
+AV05038	-48.81	-136.4	10	2	1854	92812	porpoises	2				Fortune	AS0224	240	AV05038:092812
+AV05038	-53.05	-114.66	16	2	1854	92818	porpoises	2				Fortune	AS0224	241	AV05038:092818
+AV05038	-8.05	-34.9	11	4	1854	92872	oil	25	bbls			Fortune	AS0224	242	AV05038:092872
+AV05193	-1.96	42.5	18	8	1853	92636	sperm	50	bbls		Total sperm oil on board is 400 bls.	Frank Bunchinia	AS1401	243	AV05193:092636
+AV05193	16.3	53.69	12	12	1853	92752	sperm	100	bbls		Yield from 2 sperm whales 12/7 and 12/8, makes total 550 bls on board.	Frank Bunchinia	AS1401	244	AV05193:092752
+AV05193	16.3	53.69	12	12	1853	92752		550	bbls			Frank Bunchinia	AS1401	245	AV05193:092752
+AV05193	35.41	-68.08	1	5	1854	92892	sperm oil	30	bbls		Stowed down today.	Frank Bunchinia	AS1401	246	AV05193:092892
+AV05358	7.55	-18	7	8	1827	83128	whale oil	87	bbls		stowed down	Galatea	AS0262	247	AV05358:083128
+AV05358	-38.75	-44.75	8	12	1827	83251	sperm oil	75	bbls		stowed down	Galatea	AS0262	248	AV05358:083251
+AV05358	-41.13	-51.51	22	12	1827	83265	sperm oil	87	bbls		stowed down	Galatea	AS0262	249	AV05358:083265
+AV05358	-32.8	-49.86	23	4	1828	83388	whale oil	30	bbls		stowed down30	Galatea	AS0262	250	AV05358:083388
+AV05729	49.33	-15.5	11	7	1841	88215	sperm oil	130	bbls	stowed		George Washington	AS0242	251	AV05729:088215
+AV05729	32.75	-22.33	31	8	1841	88266	oil	65	bbls	stowed		George Washington	AS0242	252	AV05729:088266
+AV05729	-34.96	-41	14	1	1842	88402	oil	87	bbls	stowing		George Washington	AS0242	253	AV05729:088402
+AV05903	13.56	-23.66	1	11	1851	91980	oil	1	bbls		traded	Good Return II	AS0218	254	AV05903:091980
+AV05903	-26.91	-45.83	28	11	1851	92007	sperm oil	14	bbls			Good Return II	AS0218	255	AV05903:092007
+AV05903	-32.65	-41.1	4	12	1851	92013	sperm oil	85	bbls		stowed down	Good Return II	AS0218	256	AV05903:092013
+AV05903	68.66	-170.7	7	9	1852	92291	oil	25	bbls		stowed down	Good Return II	AS0218	257	AV05903:092291
+AV05903	68.46	-170.53	20	9	1852	92304	oil	40	bbls		stowed down	Good Return II	AS0218	258	AV05903:092304
+AV05903	67.33	-170.83	24	9	1852	92308		NA				Good Return II	AS0218	259	AV05903:092308
+AV05903	67.33	-170.83	24	9	1852	92308	oil	15	bbls		due to storm lost 15 and put 80 barrels on Deck	Good Return II	AS0218	260	AV05903:092308
+AV05903	41	-175.16	12	10	1852	92326	right whale porpoise	1	fish		caught	Good Return II	AS0218	261	AV05903:092326
+AV05903	21.3	-157.9	28	10	1852	92342	whale bone	40000	lbs		shipped home with Freight ?	Good Return II	AS0218	262	AV05903:092342
+AV05903	21.3	-157.9	4	3	1853	92469	oil	1600	bbls		on board the E Warwick	Good Return II	AS0218	263	AV05903:092469
+AV05903	21.68	-155.9	15	10	1853	92694	bone	136	lbs			Good Return II	AS0218	264	AV05903:092694
+AV05903	26.13	-113.83	8	2	1854	92810	sperm oil	80	bbls		stowing down	Good Return II	AS0218	265	AV05903:092810
+AV05903	21.3	-157.9	23	3	1854	92853	sperm	15	casks		2805 gallons, not sure if the gallons are in addition to or equal to 15 casks	Good Return II	AS0218	266	AV05903:092853
+AV05903	21.3	-157.9	23	3	1854	92853	Polar	54	casks		9284 gallons in addition to casks or equal to casks	Good Return II	AS0218	267	AV05903:092853
+AV05903	54.9	137.75	27	7	1854	92979	oil	8	pipes		stowed down, not sure if unit amt correct	Good Return II	AS0218	268	AV05903:092979
+AV05903	54.42	137.89	20	8	1854	93003	oil	10	pipes		stowed down	Good Return II	AS0218	269	AV05903:093003
+AV05903	54.26	137.94	23	8	1854	93006	oil	62	bbls		stowed down	Good Return II	AS0218	270	AV05903:093006
+AV05903	53.78	138.08	1	9	1854	93015	oil	9	pipes		stowed down	Good Return II	AS0218	271	AV05903:093015
+AV05903	15.98	-154.66	17	11	1854	93092		NA				Good Return II	AS0218	272	AV05903:093092
+AV05903	15.98	-154.66	17	11	1854	93092	oil	9	pipes		broke out, coopered it and stowed it down again	Good Return II	AS0218	273	AV05903:093092
+AV05903	NA	NA	5	8	1870	98832	whale oil	30	gallons	at Lahaina		NA	AS0000	274	AV05903:098832
+AV05903	NA	NA	5	8	1870	98832	whale oil	10	gallons	exchanged at Lahaina		NA	AS0000	275	AV05903:098832
+AV05903	NA	NA	5	8	1870	98832	whale oil	40	gallons	exchanged at Kauai		NA	AS0000	276	AV05903:098832
+AV05903	NA	NA	5	8	1870	98832	sperm oil	3	gallons	at Lahaina		NA	AS0000	277	AV05903:098832
+AV05903	NA	NA	5	8	1870	98832	whale oil	15	gallons	returned at Lahaina		NA	AS0000	278	AV05903:098832
+AV05903	NA	NA	5	8	1870	98832	whale oil	4	gallons	sold at Honolulu		NA	AS0000	279	AV05903:098832
+AV05903	NA	NA	5	8	1870	98832	whale oil	98	gallons	sent ahore at Talcahuano		NA	AS0000	280	AV05903:098832
+AV06037	38.58	-28.72	9	9	1864	96676	oil	100	bbls	Offloading	Sending oil home. Possibly the 100 brls sperm from 8/8 kill?	Greyhound	AS0258	281	AV06037:096676
+AV06038	9.06	-19.88	19	10	1865	97081	whale oil	7	bbls		Yields from Oct 17, 18, 19-- 4 blackfish total.	Greyhound	AS0258	282	AV06038:097081
+AV06038	-35.75	5.13	4	12	1865	97127	sperm oil	278	gallons		Stowed down  1 cask, containing 278 gallons marked S.O.	Greyhound	AS0258	283	AV06038:097127
+AV06038	-36.03	7.55	9	12	1865	97132	whale oil	1857	gallons		Stowed 8 casks marked W.O. containing 1857 gallons.	Greyhound	AS0258	284	AV06038:097132
+AV06038	-37.76	5.45	19	12	1865	97142	whale oil	2919	gallons		Stowed 13 casks containing 2919 gallons marked W.O.	Greyhound	AS0258	285	AV06038:097142
+AV06038	-35.16	7.62	24	12	1865	97147	whale oil	580	gallons		Stowed two cask containing 580 gallons marked WO.	Greyhound	AS0258	286	AV06038:097147
+AV06038	-36.2	26.43	31	12	1865	97154	sperm oil	9	bbls		These are totals at year's end, noted in log. Units are presumed, not specified.	Greyhound	AS0258	287	AV06038:097154
+AV06038	-36.2	26.43	31	12	1865	97154	blackfish oil	9	bbls		These are totals at year's end, as noted in log. Units are presumed, not specified.	Greyhound	AS0258	288	AV06038:097154
+AV06038	-36.2	26.43	31	12	1865	97154	whale oil	170	bbls		These are totals at year's end, noted in log. Units are presumed, not specified in log.	Greyhound	AS0258	289	AV06038:097154
+AV06038	-35.3	32.3	2	1	1866	97156	bone	10	lbs		Stowed down today.	Greyhound	AS0258	290	AV06038:097156
+AV06038	-26.8	47.4	28	1	1866	97182	oil	385	gallons		Stowed 2 casks marked HO containing 385 gallons.	Greyhound	AS0258	291	AV06038:097182
+AV06038	-26.8	47.4	28	1	1866	97182	sperm oil	1220	gallons		Stowed... 7 casks marked S.O. containing 1220 galls sperm oil.	Greyhound	AS0258	292	AV06038:097182
+AV06038	-26.68	46.35	29	1	1866	97183	oil	582	gallons		Stowed 3 casks marked HO containing 582 gallons.	Greyhound	AS0258	293	AV06038:097183
+AV06038	-26.68	46.35	29	1	1866	97183	sperm oil	562	gallons		Stowed...3 cask marked S.O. containing 562 gallons.	Greyhound	AS0258	294	AV06038:097183
+AV06038	-9.71	44.5	9	6	1866	97314	sperm oil	158	gallons		Yeild from small whale taken 6/8.	Greyhound	AS0258	295	AV06038:097314
+AV06038	-24	49.31	23	11	1866	97481	oil	985	gallons		Stowed 5 casks marked H.O. containing 985 gallons.	Greyhound	AS0258	296	AV06038:097481
+AV06038	-24	49.31	23	11	1866	97481	sperm oil	1591	gallons		[Stowed] nine casks marked SO containing 1591 gallons sperm oil.	Greyhound	AS0258	297	AV06038:097481
+AV06038	-23.9	50.49	1	12	1866	97489	sperm oil	1019	gallons		Stowed six casks marked SO containing 1019 gallons sperm oil.	Greyhound	AS0258	298	AV06038:097489
+AV06038	-23.88	50.73	2	12	1866	97490	oil	2108	gallons		Stowed 9 casks marked HO, 4 casks marked SO, 5 casks containing 2108.	Greyhound	AS0258	299	AV06038:097490
+AV06038	-24.66	50.31	12	12	1866	97500	sperm oil	1071	gallons		Stowed six casks marked SO containing 1071 gallons of sperm oil.	Greyhound	AS0258	300	AV06038:097500
+AV06038	-24.36	50.27	13	12	1866	97501	oil	677	gallons		Stowed 3 casks marked HO containing 677 gallons	Greyhound	AS0258	301	AV06038:097501
+AV06166	37.98	-35.76	3	9	1851	91921	whale oil	9	bbls		From whale found dead 8/30, lost head. Total yield 9 bls 13 gallons.	Hanover	AS1532	302	AV06166:091921
+AV06166	37.98	-35.76	3	9	1851	91921	whale oil	13	gallons		Remainder of yeild from 8/30 whale.	Hanover	AS1532	303	AV06166:091921
+AV06166	37.78	-36.11	8	9	1851	91926	sperm oil	85	bbls		Stowed.	Hanover	AS1532	304	AV06166:091926
+AV06166	35.63	-42.21	24	9	1851	91942	sperm oil	80	bbls		Total sperm oil on board = 165 barrels.	Hanover	AS1532	305	AV06166:091942
+AV06166	42.04	-70.2	18	10	1851	91966	sperm oil	168	bbls		Voyage total as noted in log.	Hanover	AS1532	306	AV06166:091966
+AV06167	37.33	-34.45	22	7	1852	92244	sperm oil	16	bbls			Hanover	AS1532	307	AV06167:092244
+AV06167	34.88	-44.75	11	8	1852	92264	blackfish oil	1	bbls			Hanover	AS1532	308	AV06167:092264
+AV06167	33.5	-45.61	20	8	1852	92273	sperm oil	98	bbls		Stowed down.	Hanover	AS1532	309	AV06167:092273
+AV06167	35.2	-46.66	30	8	1852	92283	sperm oil	45	bbls		Share of oil from caught with E. Nickerson.	Hanover	AS1532	310	AV06167:092283
+AV06168	35.08	-54	14	7	1853	92601	oil	22	bbls		Stowed	Hanover	AS1532	311	AV06168:092601
+AV06436	41.85	131.15	28	8	1852	92281		140	bbls		stowing down	Henry Kneeland	AS0280	312	AV06436:092281
+AV06598	-7.31	-31.63	10	11	1860	95277	blackfish oil	25	gallons		Stowed.	Hero	AS1592	313	AV06598:095277
+AV06598	-35.81	7.13	12	12	1860	95309	sperm	79	bbls		Stowed.	Hero	AS1592	314	AV06598:095309
+AV06598	-35.5	7.15	13	12	1860	95310	whale oil	85	bbls		Right whale oil, stowed.	Hero	AS1592	315	AV06598:095310
+AV06598	-36.25	6.23	21	12	1860	95318	blackfish oil	82	bbls			Hero	AS1592	316	AV06598:095318
+AV06598	-35.3	6.01	28	12	1860	95325	right whale oil	40	bbls		Stowed.	Hero	AS1592	317	AV06598:095325
+AV06598	-35.65	5.65	29	12	1860	95326	right whale oil	92	bbls		Stowed.	Hero	AS1592	318	AV06598:095326
+AV06598	-34.01	25.7	23	1	1861	95351	bone	3121	lbs			Hero	AS1592	319	AV06598:095351
+AV06598	-34	25.6	25	1	1861	95353	oil	2	lighters		Wording: Discharged two lighters of oil into the [C]erania.	Hero	AS1592	320	AV06598:095353
+AV06598	-34	25.6	26	1	1861	95354	oil	1	lighters		Wording: Discharged a lighter of oil get-off a...chain from shore.	Hero	AS1592	321	AV06598:095354
+AV06789	29.83	-50	3	7	1859	94781	oil	40	bbls		on board the Charles Phelps	Hopeton	AS1621	322	AV06789:094781
+AV06961	NA	NA	29	3	1839	87380	oil	25	bbls	stowed		NA	AS0000	323	AV06961:087380
+AV06961	38.83	-33.01	14	7	1839	87487	oil	46	bbls	stowed		Imogene	AS1641	324	AV06961:087487
+AV07075	NA	NA	12	5	1823	81580	sperm oil	125	bbls		log entry: in all 125 bbl sperm oil, 20 bbl blackfish and humpback, 145 in all	NA	AS0000	325	AV07075:081580
+AV07293	56.66	-168.03	15	7	1893	107212	oil	25	bbls	Stowed Down		James Arnold	AS0340	326	AV07293:107212
+AV07669	-34.75	123	28	9	1886	104730	sperm oil	457	bbls		11 months out with 457 bbls sperm oil	John and Winthrop	AS0355	327	AV07669:104730
+AV07669	-35.26	118.48	8	11	1886	104771	sperm	528	bbls		now have 528 bbls sperm whale oil	John and Winthrop	AS0355	328	AV07669:104771
+AV07669	-34.61	157.3	31	12	1886	104824	sperm oil	595	bbls		14 months from home with 595 bbls sperm oil	John and Winthrop	AS0355	329	AV07669:104824
+AV07669	-33.9	151	2	8	1887	105038	sperm oil	852	bbls		finished discharging to Eastern Monarch	John and Winthrop	AS0355	330	AV07669:105038
+AV07887	-37.31	21.98	3	11	1863	96365		NA				Josephine	AS0346	331	AV07887:096365
+AV07887	55.72	141.55	31	5	1864	96575		228	bbls		stowed down	Josephine	AS0346	332	AV07887:096575
+AV07887	54.86	136.36	25	7	1864	96630		40	bbls		stowed down	Josephine	AS0346	333	AV07887:096630
+AV07887	54.03	137.82	5	9	1864	96672		NA				Josephine	AS0346	334	AV07887:096672
+AV07887	22.95	-109.58	26	1	1865	96815		56	bbls		stowed down	Josephine	AS0346	335	AV07887:096815
+AV07887	22.74	-109.56	5	2	1865	96825		90	bbls		stowed down	Josephine	AS0346	336	AV07887:096825
+AV07887	54	141.08	27	5	1865	96936		156	bbls		stowed down	Josephine	AS0346	337	AV07887:096936
+AV07887	60.96	158.35	23	6	1865	96963		77	bbls		stowed down	Josephine	AS0346	338	AV07887:096963
+AV07887	54.6	137.08	28	8	1865	97029		100	bbls		stowed down	Josephine	AS0346	339	AV07887:097029
+AV07887	54.77	137	3	9	1865	97035		103	bbls		stowed down	Josephine	AS0346	340	AV07887:097035
+AV07887	54.94	136.92	9	9	1865	97041		85	bbls		stowed down	Josephine	AS0346	341	AV07887:097041
+AV08038	32.46	-31.93	10	9	1852	92294	sperm	75	bbls		A note on 9/10 says yeild was 70bbls. The entry on 9/14 after boiling says 75.	Kathleen	AS0357	342	AV08038:092294
+AV08038	33.99	-31.13	13	9	1852	92297		NA				Kathleen	AS0357	343	AV08038:092297
+AV08038	38.58	-28.72	22	9	1852	92306	sperm oil	67	bbls		Wording: Captain went a shore wee landed 67 bl sperm oil.	Kathleen	AS0357	344	AV08038:092306
+AV08038	-36.4	-7.85	25	12	1852	92400		NA			Wording: Wee hail 160 barrels.	Kathleen	AS0357	345	AV08038:092400
+AV08038	-36.4	-7.85	25	12	1852	92400	unspecified	90	bbls			Kathleen	AS0357	346	AV08038:092400
+AV08038	-36.15	-6.85	7	1	1853	92413	unspecified	110	bbls			Kathleen	AS0357	347	AV08038:092413
+AV08038	-36.07	-6.55	11	1	1853	92417	unspecified	100	bbls			Kathleen	AS0357	348	AV08038:092417
+AV08038	-36.02	-5.82	24	1	1853	92430	sperm oil	84	bbls		From two whales taken 1/21	Kathleen	AS0357	349	AV08038:092430
+AV08038	-36.02	-5.82	24	1	1853	92430		NA				Kathleen	AS0357	350	AV08038:092430
+AV08038	-36.02	-5.82	24	1	1853	92430	unspecified	58	bbls			Kathleen	AS0357	351	AV08038:092430
+AV08038	-32.43	-4.04	9	2	1853	92446	sperm whale	105	bbls			Kathleen	AS0357	352	AV08038:092446
+AV08038	-32.43	-4.04	9	2	1853	92446		NA				Kathleen	AS0357	353	AV08038:092446
+AV08038	16.79	-63.6	10	4	1853	92506	unspecified oil	520	bbls		This amount of Kathleen's oil was stowed on the Sarah.	Kathleen	AS0357	354	AV08038:092506
+AV08038	37.27	-41.45	19	7	1853	92606	whale oil	600	gallons		(19 bls )Kathleen's yield from whale taken 7/16 shared with Sea Gull.	Kathleen	AS0357	355	AV08038:092606
+AV08038	38.99	-33.27	31	7	1853	92618	whale oil	1	quart		One quart was processed from a decaying dead whale, presumed an experiment.	Kathleen	AS0357	356	AV08038:092618
+AV08038	38.74	-29.16	10	8	1853	92628	whale oil	5	bbls		Sold/traded for food, water, livestock.	Kathleen	AS0357	357	AV08038:092628
+AV08038	38.65	-28.87	11	8	1853	92629	unspecified oil	1	bbls		Sold one barrel of oil today.	Kathleen	AS0357	358	AV08038:092629
+AV08038	38.58	-28.72	17	8	1853	92635	bone	1500	lbs			Kathleen	AS0357	359	AV08038:092635
+AV08038	38.58	-28.72	17	8	1853	92635	sperm oil	625	gallons		Went in to Fayal and landed 625 gallons Sp oil and 1500 lbs of bone.	Kathleen	AS0357	360	AV08038:092635
+AV08038	38.12	-27.68	30	8	1853	92648	sperm oil	100	bbls			Kathleen	AS0357	361	AV08038:092648
+AV08038	37.81	-28.36	2	9	1853	92651	sperm oil	95	bbls		wee landed 95 bls of Sp oil to night	Kathleen	AS0357	362	AV08038:092651
+AV08038	-36.13	-17.59	7	11	1853	92717	sperm oil	41	bbls		Stowed down today.	Kathleen	AS0357	363	AV08038:092717
+AV08038	-34.22	-13.26	13	12	1853	92753	unspecified	36	bbls		Post-processing amount, from whale found dead 12/10	Kathleen	AS0357	364	AV08038:092753
+AV08038	-32.58	-9.52	13	1	1854	92784	whale oil	8	gallons		Stowed 70 bls and 8 gallons today.	Kathleen	AS0357	365	AV08038:092784
+AV08038	-32.58	-9.52	13	1	1854	92784	whale oil	70	bbls		Stowed down 70 bbls and 8 gallons today.	Kathleen	AS0357	366	AV08038:092784
+AV08038	-32.53	-9.4	14	1	1854	92785	whale oil	30	bbls		Stowed down thirty barrels of whale oil today.	Kathleen	AS0357	367	AV08038:092785
+AV08038	-32.37	-9.04	17	1	1854	92788	whale oil	25	bbls		Stowed down 25 barrels this morning.	Kathleen	AS0357	368	AV08038:092788
+AV08038	-32.26	-8.8	19	1	1854	92790		NA				Kathleen	AS0357	369	AV08038:092790
+AV08038	-32.26	-8.8	19	1	1854	92790	whale oil	30	bbls		Stowed down 30 bls whale oil today.	Kathleen	AS0357	370	AV08038:092790
+AV08038	-21.42	9.47	19	3	1854	92849	sperm oil	18	bbls		We took in the Funk and commenced to _ail the Cosee. That made 18 bls.  	Kathleen	AS0357	371	AV08038:092849
+AV08038	-21.18	9.61	2	4	1854	92863	unspecified oil	182	bbls		Wording: we stowed all the cask that will fit in the fore hole, 182 bls, 20 gallons.	Kathleen	AS0357	372	AV08038:092863
+AV08038	-21.18	9.61	2	4	1854	92863	unspecified oil	20	gallons			Kathleen	AS0357	373	AV08038:092863
+AV08038	-16.05	-2.78	12	5	1854	92903	sperm oil	2	bbls		Sold two barrels of sperm oil today.	Kathleen	AS0357	374	AV08038:092903
+AV08038	-16.1	-1.62	16	5	1854	92907	sperm oil	9	bbls	offloaded	Sold 9 barrels of sperm oil today.	Kathleen	AS0357	375	AV08038:092907
+AV08038	-16.12	-1.04	18	5	1854	92909	whale oil	4	gallons	offloaded	Sold 4 gallons whale oil today.	Kathleen	AS0357	376	AV08038:092909
+AV08038	-8.96	10.61	26	7	1854	92978	unspecified oil	0			Leaking oil discoered in hold.	Kathleen	AS0357	377	AV08038:092978
+AV08038	-5.79	9.43	9	8	1854	92992	humpback oil	3	bbls	offloaded	Took 3 bls oil ashore, came back w/wood.	Kathleen	AS0357	378	AV08038:092992
+AV08038	-35.78	-2.81	29	10	1854	93073	whale	50	bbls		Finsihed boiling and have turned up 50 bls.	Kathleen	AS0357	379	AV08038:093073
+AV08038	-35.68	-2.62	30	10	1854	93074		30	bbls		Finished stowing...30bls.	Kathleen	AS0357	380	AV08038:093074
+AV08038	-33.48	-1.98	9	11	1854	93084		15	bbls		Stowed down today.	Kathleen	AS0357	381	AV08038:093084
+AV08038	-33.15	-2.05	10	11	1854	93085	whale oil	25	bbls		Stowed about 25 bls today.	Kathleen	AS0357	382	AV08038:093085
+AV08038	-32.15	-2.24	13	11	1854	93088		10	bbls		Stowed ten barrels.	Kathleen	AS0357	383	AV08038:093088
+AV08038	-29.49	-2.75	21	11	1854	93096	whale oil	23	casks		Stowed 23 casks of oil today.	Kathleen	AS0357	384	AV08038:093096
+AV08038	-27.83	-3.07	26	11	1854	93101	whale oil	12	bbls		Threw out whale oil to make room for the sperm oil they just made. Out of room.	Kathleen	AS0357	385	AV08038:093101
+AV08038	-26.83	-3.26	29	11	1854	93104	sperm	46	bbls		Stowed 32 barrels and their is 14 barrels in the try works. (presumabley for storage)	Kathleen	AS0357	386	AV08038:093104
+AV08038	-13.23	-10.59	23	12	1854	93128	oil	32	casks		Went on shore and coopered 32 casks of oil for the Consol.  This abstractor unable to interpret.	Kathleen	AS0357	387	AV08038:093128
+AV08147	43.1	-40.75	13	9	1861	95584	oil	14	bbls		Due to weather, they stowed part of the yeild they were processing.	Lafayette	AS0389	388	AV08147:095584
+AV08147	42.61	-41.3	5	10	1861	95606	oil	30	bbls		No description of product type. Entry comes after two days of oil production.	Lafayette	AS0389	389	AV08147:095606
+AV08147	41.03	-37.63	13	10	1861	95614	oil	3	casks		Run down 3 casks oil.	Lafayette	AS0389	390	AV08147:095614
+AV08147	41.11	-35.81	14	10	1861	95615	oil	2	casks		Run down 2 casks of oil.	Lafayette	AS0389	391	AV08147:095615
+AV08147	38.35	-28.61	23	10	1861	95624	oil	14	casks		This is to be divided equally between Lafayette and AR Tucker upon return home.	Lafayette	AS0389	392	AV08147:095624
+AV08342	32.5	-44.48	26	7	1841	88230	oil	32	bbls		finished stowing down 32 bbls	Leonidas	AS0396	393	AV08342:088230
+AV08342	36.42	-42.68	28	8	1841	88263		NA			finished stowing down 60 bbls	Leonidas	AS0396	394	AV08342:088263
+AV08342	38.58	-28.72	24	9	1841	88290	oil	215	bbls		sent ashore 215 bbls and 9.5 gal	Leonidas	AS0396	395	AV08342:088290
+AV08684	51.66	-158.83	4	7	1846	90034	whale oil	113	bbls		stowed down 	Luminary	AS1819	396	AV08684:090034
+AV08684	51.5	-158.31	12	7	1846	90042	whale oil	201	bbls		stowed down	Luminary	AS1819	397	AV08684:090042
+AV08684	57.88	-150.73	5	8	1846	90066	whale oil	261	bbls		stowed down	Luminary	AS1819	398	AV08684:090066
+AV08684	-45.9	171	23	1	1847	90237	unknown	57	bbls			Luminary	AS1819	399	AV08684:090237
+AV08684	-45.98	171	3	2	1847	90248	whale	72	bbls			Luminary	AS1819	400	AV08684:090248
+AV08684	-44.85	174.4	18	4	1847	90322	right whale oil	75	bbls		stowed down	Luminary	AS1819	401	AV08684:090322
+AV09015	-41.83	-40.33	27	1	1823	81475	oil	40	bbls		stowed down	Maria Theresa	AS0411	402	AV09015:081475
+AV09015	-42.41	-40.33	15	2	1823	81494	oil	1807	bbls		counted	Maria Theresa	AS0411	403	AV09015:081494
+AV09119	-43.93	-53.89	11	12	1815	78871	oil	41	bbls		stowed down	Martha	AS0401	404	AV09119:078871
+AV09228	60.86	163.3	2	7	1885	104277	whale oil	253	bbls		stowed down from 3 whales	Mary and Helen II	AS1874	405	AV09228:104277
+AV09747	41.7	-37.73	1	8	1861	95541	sperm oil	42	bbls		spoke Bark Huntress and put on board her oil	Midas	AS0405	406	AV09747:095541
+AV09747	-19.05	178.25	19	8	1862	95924	oil	40	bbls		how much yielded from humpback tried this day	Midas	AS0405	407	AV09747:095924
+AV09747	-43.06	-176.99	12	2	1864	96466	oil	52	bbls		took on board fro the Bark Plover 1/2 the whale we got together	Midas	AS0405	408	AV09747:096466
+AV09747	-34.97	174.62	5	3	1864	96488	oil	214	bbls		hauled the Bark Curser alongside and discharged it on board of her	Midas	AS0405	409	AV09747:096488
+AV09747	-34.98	173.55	12	3	1864	96495	sperm oil	275	gallons		? off 2 casks of sperm oil and landed it 137 and 138 gal	Midas	AS0405	410	AV09747:096495
+AV09747	-34.98	173.55	22	3	1864	96505	humpback oil	753	gallons		put on board Cutter Ringdove	Midas	AS0405	411	AV09747:096505
+AV09747	33.7	158.23	26	5	1864	96570		NA			draining the sperm oil casks and putting into barrels	Midas	AS0405	412	AV09747:096570
+AV09747	39.42	-31.77	28	6	1865	96968	oil	50	bbls		boiling the whale made 50 bbls	Midas	AS0405	413	AV09747:096968
+AV09747	39.48	-31.68	30	6	1865	96970	oil	70	bbls		stowing down the oil	Midas	AS0405	414	AV09747:096970
+AV09793	-39	-44.83	29	11	1818	79955	oil	50	bbls		count, on deck	Milwood	AS0403	415	AV09793:079955
+AV09793	-38.16	-44.58	30	11	1818	79956	oil	30	bbls		stowed down	Milwood	AS0403	416	AV09793:079956
+AV10278	38.58	-28.72	12	9	1850	91565	oil	1067	gallons		at Fayal, sent the oil ashore	Nassau	AS0492	417	AV10278:091565
+AV10563	27.6	-35.35	27	9	1859	94867	sperm oil	50	bbls			Noble	AS2052	418	AV10563:094867
+AV10563	-40.73	-55.23	31	3	1860	95053		90	bbls		Stowed down today.	Noble	AS2052	419	AV10563:095053
+AV10563	-41	-53.76	29	4	1860	95082	whale oil	80	bbls			Noble	AS2052	420	AV10563:095082
+AV10563	-35.25	-52.5	25	10	1860	95261	whale oil	40	bbls		Stowed down.	Noble	AS2052	421	AV10563:095261
+AV10563	-47.11	-56.53	8	2	1861	95367	oil	76	bbls		Stowed down today.	Noble	AS2052	422	AV10563:095367
+AV10563	-46.35	-57.16	23	2	1861	95382	oil	50	bbls			Noble	AS2052	423	AV10563:095382
+AV10563	-40.81	-55.26	28	3	1861	95415	sperm oil	105	bbls			Noble	AS2052	424	AV10563:095415
+AV10563	-39.6	-55.28	13	5	1861	95461	oil	45	bbls		Stowed down.	Noble	AS2052	425	AV10563:095461
+AV10723	35.71	-36.34	16	7	1859	94794	oil	150	bbls		4 whales made us 150 bbls oil. 3[spm] made 40 bls, other 110.	Ocean Rover	AS2067	426	AV10723:094794
+AV10723	38.58	-28.72	8	9	1859	94848		NA		offloaded	All oil offloaded.	Ocean Rover	AS2067	427	AV10723:094848
+AV10723	-35.9	-18.42	18	11	1859	94919	bone	285	lbs		Cleaned and finished.	Ocean Rover	AS2067	428	AV10723:094919
+AV10723	-36.33	-19.73	21	11	1859	94922	oil	26	bbls	stowed	26 Bbls stowed.	Ocean Rover	AS2067	429	AV10723:094922
+AV10723	-30.72	-10.3	16	12	1859	94947		40	bbls		This was half the amount of the oil from 12/11 kill. Bark Harvest got 40 bls.	Ocean Rover	AS2067	430	AV10723:094947
+AV10723	-27.52	-9.3	24	12	1859	94955	bone	2100	lbs	bundled and finished		Ocean Rover	AS2067	431	AV10723:094955
+AV10723	-7.97	105.5	10	7	1861	95519	sperm oil	40	bbls	turned up	(the 2 whales from 7/9)	Ocean Rover	AS2067	432	AV10723:095519
+AV10723	-26.48	-47.16	26	3	1862	95778	whale oil	7	bbls	sold	Sold today.	Ocean Rover	AS2067	433	AV10723:095778
+AV10723	-26.08	-46.72	27	3	1862	95779	whale oil	10	bbls	sold	Sold today.	Ocean Rover	AS2067	434	AV10723:095779
+AV10723	38.45	-35.59	22	6	1862	95866	oil	20	gallons	stowed		Ocean Rover	AS2067	435	AV10723:095866
+AV10723	38.45	-35.59	22	6	1862	95866	oil	115	bbls	stowed	Plus 20 gallons, stowed down today.	Ocean Rover	AS2067	436	AV10723:095866
+AV10783	36.02	-61.6	12	10	1862	95978	sperm oil	34	bbls		stowing down	Ohio	AS0517	437	AV10783:095978
+AV10783	-26	32.45	1	6	1863	96210	oil	87	bbls		stowing down	Ohio	AS0517	438	AV10783:096210
+AV10783	-26	32.45	19	6	1863	96228	oil	95	bbls		stowed down	Ohio	AS0517	439	AV10783:096228
+AV10783	-35.15	6.87	16	11	1863	96378	sperm oil	60	bbls		stowed down	Ohio	AS0517	440	AV10783:096378
+AV10783	-35.4	7.86	27	11	1863	96389	whale oil	50	bbls		stowed down	Ohio	AS0517	441	AV10783:096389
+AV10783	-34.85	4.87	13	12	1863	96405	whale oil	19	bbls		stowed down	Ohio	AS0517	442	AV10783:096405
+AV10783	38.58	-28.72	11	5	1864	96555	whale oil	154	bbls		landed	Ohio	AS0517	443	AV10783:096555
+AV10783	38.58	-28.72	12	5	1864	96556	whale oil	97	bbls		landed	Ohio	AS0517	444	AV10783:096556
+AV10783	38.58	-28.72	13	5	1864	96557	whale oil	120	bbls		landed	Ohio	AS0517	445	AV10783:096557
+AV10783	38.58	-28.72	14	5	1864	96558	whale bone	33	bundles		landed	Ohio	AS0517	446	AV10783:096558
+AV10783	38.58	-28.72	14	5	1864	96558	whale oil	540	bbls		landed	Ohio	AS0517	447	AV10783:096558
+AV11052	40.75	-41.26	2	10	1865	97064		NA			Unspecified amount of oil transferred from Bark Osceola to the Manerva Smith	Osceola III	AS0728	448	AV11052:097064
+AV11052	39.41	-38.63	14	10	1865	97076		NA			stopped production due to weather	Osceola III	AS0728	449	AV11052:097076
+AV11052	39.41	-38.63	14	10	1865	97076		NA				Osceola III	AS0728	450	AV11052:097076
+AV11052	38.58	-28.72	21	10	1865	97083		NA				Osceola III	AS0728	451	AV11052:097083
+AV11052	16.11	-24.15	2	3	1866	97215		NA				Osceola III	AS0728	452	AV11052:097215
+AV11052	16.11	-24.51	7	3	1866	97220		NA				Osceola III	AS0728	453	AV11052:097220
+AV11052	13.27	-59.55	5	5	1866	97279		NA			sent unspecified quantity of oil to shore, for an unnamed vessel to take it home the following week.	Osceola III	AS0728	454	AV11052:097279
+AV11052	31.92	-56.5	26	6	1866	97331	sperm oil	82	bbls		from the body. Stowed.	Osceola III	AS0728	455	AV11052:097331
+AV11052	31.88	-56.58	27	6	1866	97332	sperm oil	NA			continued stowing oil, all but five casks	Osceola III	AS0728	456	AV11052:097332
+AV11052	31.76	-56.71	5	7	1866	97340	sperm oil	40	bbls		stowing complete	Osceola III	AS0728	457	AV11052:097340
+AV11052	31.65	-57.83	21	7	1866	97356	sperm oil	1	bbls		made nearly a barrell of oil.	Osceola III	AS0728	458	AV11052:097356
+AV11187	0.25	6.62	14	10	1822	81370	sperm oil	10	gallons		stowed down	Packet	AS0527	459	AV11187:081370
+AV11187	0.25	6.62	14	10	1822	81370	sperm oil	57	bbls		stowed down	Packet	AS0527	460	AV11187:081370
+AV11187	0.25	6.62	19	10	1822	81375	sperm oil	10	gallons		sperm oil	Packet	AS0527	461	AV11187:081375
+AV11187	0.25	6.62	19	10	1822	81375	sperm oil	37	bbls		stowed down	Packet	AS0527	462	AV11187:081375
+AV11187	0.25	6.62	2	11	1822	81389	sperm oil	324	bbls		total count thus far	Packet	AS0527	463	AV11187:081389
+AV11187	0.25	6.62	2	11	1822	81389	sperm oil	23	bbls		stowed down	Packet	AS0527	464	AV11187:081389
+AV11281	8.26	-116.92	1	4	1832	84827	sperm oil	244	bbls			Parker	AS0535	465	AV11281:084827
+AV11281	23.42	-155.07	18	11	1832	85058	oil	1279	bbls			Parker	AS0535	466	AV11281:085058
+AV11281	28.96	171.32	26	7	1833	85308	oil	160	bbls		turned up	Parker	AS0535	467	AV11281:085308
+AV11281	28.9	174.83	11	10	1833	85385	oil	2329	bbls			Parker	AS0535	468	AV11281:085385
+AV11281	-1.45	-155.11	1	1	1834	85467	oil	2200	bbls			Parker	AS0535	469	AV11281:085467
+AV11281	2.58	-167.82	9	5	1834	85595	sperm oil	2600	bbls			Parker	AS0535	470	AV11281:085595
+AV11346	41.64	-70.93	3	5	1893	107139	Sperm oil	1630	bbls		voyage total given on front page of log	Pearl Nelson	AS0765	471	AV11346:107139
+AV11346	38.58	-28.72	22	9	1893	107281	Sperm oil	223	bbls		landed oil at Fayal to be shipped back (this day and next)--32 casks	Pearl Nelson	AS0765	472	AV11346:107281
+AV11346	13.07	-59.48	17	5	1894	107518	Sperm oil	27	casks		Put aboard William F Green to ship home 27 casks sperm oil (= 6940 gallons) and 1 cask Blackfish oil	Pearl Nelson	AS0765	473	AV11346:107518
+AV11346	38.58	-28.72	22	9	1894	107646	Sperm oil	63	casks		landed at Fayal 63 casks sperm -- 14881 gallons -- for transport home on Bark Sarah	Pearl Nelson	AS0765	474	AV11346:107646
+AV11346	14.9	-24.7	25	2	1895	107802	blackfish oil	NA			traded little blackfish oil for some pumpkins and potatos -- at Brava	Pearl Nelson	AS0765	475	AV11346:107802
+AV11346	13.07	-59.48	15	5	1895	107881	Sperm oil	10	casks		at Barbados 10 casks oil put on steamer Basil to be shipped to New York to Mess. Thomas Luc & Co., freight 50 ce per barrel	Pearl Nelson	AS0765	476	AV11346:107881
+AV11346	38.58	-28.72	26	9	1895	108015	Sperm oil	310	bbls		landed at Fayal for shipment home:38 casks=310 bbls sperm  all the oil	Pearl Nelson	AS0765	477	AV11346:108015
+AV11346	13.07	-59.48	8	4	1896	108210	Sperm oil	3357	gallons		for shipment: put aboard William F Green 13 casks sperm oil containing 3357 gallons & 1 cask blackfish oil 113 gallons	Pearl Nelson	AS0765	478	AV11346:108210
+AV11347	38.58	-28.72	16	9	1897	108736	oil	NA			at Fayal offloaded oil for shipment home; presumably all the oil, but no amount or details given	Pearl Nelson	AS0765	479	AV11347:108736
+AV11347	36.85	-76.29	15	6	1898	109008	oil	NA			offloaded oil (presumably all) at Norfolk.  No figures given.	Pearl Nelson	AS0765	480	AV11347:109008
+AV11347	37.79	-25.45	6	10	1898	109121	oil	NA			offloaded oil (presumably all) at St Michaels, for shipment home aboard the Abe Farland  No figures given.	Pearl Nelson	AS0765	481	AV11347:109121
+AV11347	14.9	-24.7	30	3	1899	109296	oil	NA			at Brava offloaded oil onto Schooner Zulinieri (sp?) for shipping home.  No figures	Pearl Nelson	AS0765	482	AV11347:109296
+AV11348	38.58	-28.72	8	9	1900	109823	oil	9386	gallons		= 40 casks oil, offloaded at Fayal to be shipped home [298 bbl (?) according to log front pages] by SS Penninsular	Pearl Nelson	AS0765	483	AV11348:109823
+AV11348	36.85	-76.29	1	7	1901	110119	oil	NA			at Norfolk landed all the oil--no amount given	Pearl Nelson	AS0765	484	AV11348:110119
+AV11348	38.58	-28.72	24	9	1901	110204		NA			at Fayal landed oil	Pearl Nelson	AS0765	485	AV11348:110204
+AV11348	14.9	-24.7	6	3	1902	110367	sperm oil	19	casks		at Brava offloaded for shipment home 19 casks 1 bbl sperm oil, 1 cask blackfish head oil	Pearl Nelson	AS0765	486	AV11348:110367
+AV11352	41.64	-70.93	15	10	1883	103651	sperm	925	bbls		so ends this voyage 30 months 925 of sperm	Pedro Varela	AS0557	487	AV11352:103651
+AV11476	11.93	-19.51	17	1	1866	97171	blackfish	3	bbls			Petrel	AS0552	488	AV11476:097171
+AV11476	16.16	-22.3	2	2	1866	97187	blackfish oil	2	bbls			Petrel	AS0552	489	AV11476:097187
+AV11476	16.02	-23.6	16	2	1866	97201	blackfish oil	2	bbls			Petrel	AS0552	490	AV11476:097201
+AV11476	15.98	-23.58	21	2	1866	97206	Blackfish	2	bbls			Petrel	AS0552	491	AV11476:097206
+AV11476	15.97	-23.57	23	2	1866	97208		NA				Petrel	AS0552	492	AV11476:097208
+AV11476	15.88	-23.52	7	3	1866	97220	blackfish oil	2	bbls			Petrel	AS0552	493	AV11476:097220
+AV11476	15.63	-23.39	10	4	1866	97254	Humpback oil	508	gallons		3 casks containing 508 gallons. Petrels's was 2/5 of the total oil produced.	Petrel	AS0552	494	AV11476:097254
+AV11476	15.6	-23.37	14	4	1866	97258	humpback oil	22	bbls			Petrel	AS0552	495	AV11476:097258
+AV11476	15.59	-23.36	16	4	1866	97260	oil	386	gallons		Stowed down 386 gallons of oil this morning.	Petrel	AS0552	496	AV11476:097260
+AV11476	15.59	-23.36	16	4	1866	97260	oil	831	gallons		Wording: The Thos Winslow  towed her oil home from us which was 831 gals oil.	Petrel	AS0552	497	AV11476:097260
+AV11476	15.44	-23.28	7	5	1866	97281	whale oil	48	bbls			Petrel	AS0552	498	AV11476:097281
+AV11476	15.43	-23.27	8	5	1866	97282	oil	1477	gallons		Wording: Stowed down 1477 galls oil.	Petrel	AS0552	499	AV11476:097282
+AV11476	15.35	-23.23	19	5	1866	97293		NA				Petrel	AS0552	500	AV11476:097293
+AV11476	24.65	-47.14	14	6	1866	97319	whale oil	130	gallons		Stowed down our oil this PM filled a 130 galls cask...partly full of humpback oil.	Petrel	AS0552	501	AV11476:097319
+AV11476	31.88	-60.71	28	6	1866	97333		0			Found a barrel half full of petroleum oil, floating. 	Petrel	AS0552	502	AV11476:097333
+AV11476	36.32	-72.6	10	7	1866	97345	oil	12	bbls		Made about 12 and a half bbls	Petrel	AS0552	503	AV11476:097345
+AV11476	40.24	-71.97	21	7	1866	97356	sperm oil	27	bbls			Petrel	AS0552	504	AV11476:097356
+AV11476	41.42	-70.93	23	7	1866	97358	sperm	30	bbls		End of log	Petrel	AS0552	505	AV11476:097358
+AV11476	41.42	-70.93	23	7	1866	97358	whale	140	bbls		End of log	Petrel	AS0552	506	AV11476:097358
+AV11476	41.42	-70.93	23	7	1866	97358	bone	625	lbs			Petrel	AS0552	507	AV11476:097358
+AV12063	29.98	-52.33	8	9	1851	91926	sperm oil	6	bbls		Stowed down our whale...part of a cask. Margin note on 9/6 says 6 barrels.	R. L. Barstow	AS2252	508	AV12063:091926
+AV12063	34.88	-45.06	19	9	1851	91937	blackfish oil	2	bbls			R. L. Barstow	AS2252	509	AV12063:091937
+AV12063	38.83	-38.77	26	9	1851	91944	blackfish oil	2	bbls			R. L. Barstow	AS2252	510	AV12063:091944
+AV12063	38.58	-28.72	3	10	1851	91951	blackfish oil	216	gallons		Sold to a launch from Fayal.	R. L. Barstow	AS2252	511	AV12063:091951
+AV12063	25.31	-17.19	29	10	1851	91977	blackfish oil	8	bbls		Stowed down eight barrels blackfish oil.	R. L. Barstow	AS2252	512	AV12063:091977
+AV12063	17	-21.9	27	2	1852	92098	sperm oil	12	bbls		Stowed down 12 bbls of head.	R. L. Barstow	AS2252	513	AV12063:092098
+AV12063	38.58	-28.72	13	6	1853	92570		NA				R. L. Barstow	AS2252	514	AV12063:092570
+AV12541	64.96	-171.37	25	6	1891	106461	bone	1767	lbs		washed and bundled	Rosario	AS2319	515	AV12541:106461
+AV12541	68.35	-166.78	30	7	1891	106496	bone	NA		sent our bone on board of the Bear		Rosario	AS2319	516	AV12541:106496
+AV12552	18.35	-65.9	12	4	1862	95795		NA			Offloaded oil today.	Roscius	AS0583	517	AV12552:095795
+AV12552	39.95	-37.91	17	8	1862	95922		NA			Got blubber from Sarah today.	Roscius	AS0583	518	AV12552:095922
+AV12570	38.58	-28.72	17	10	1860	95253	blackfish oil	8	bbls		sold on Fayal	Roscoe	AS0564	519	AV12570:095253
+AV12570	38.58	-28.72	8	11	1860	95275	whale oil	252	bbls		landed, at Fayal	Roscoe	AS0564	520	AV12570:095275
+AV12570	15.08	-23.61	29	11	1860	95296	sperm oil	58	bbls		sold on St George's Island	Roscoe	AS0564	521	AV12570:095296
+AV12570	-55.56	-64	22	2	1861	95381	sperm oil	52	bbls		stowed down	Roscoe	AS0564	522	AV12570:095381
+AV12570	-0.18	-79.88	12	8	1861	95552		NA				Roscoe	AS0564	523	AV12570:095552
+AV12570	0.97	-91.07	12	11	1861	95644	whale oil	50	bbls		stowed down	Roscoe	AS0564	524	AV12570:095644
+AV12570	-3.55	-80.4	15	10	1862	95981	humpback oil	2	bbls		sold	Roscoe	AS0564	525	AV12570:095981
+AV12570	-3.55	-80.4	16	10	1862	95982	blackfish oil	24	bbls		sold	Roscoe	AS0564	526	AV12570:095982
+AV12570	-5	-81.1	31	10	1862	95997	blackfish oil	12	gallons		sent on shore	Roscoe	AS0564	527	AV12570:095997
+AV12570	-36.7	-73.1	21	4	1863	96169	humpback oil	37	bbls		discharged to the Congaree	Roscoe	AS0564	528	AV12570:096169
+AV12570	-36.7	-73.1	21	4	1863	96169	sperm oil	250	bbls		discharged to the Congaree	Roscoe	AS0564	529	AV12570:096169
+AV12570	-43.63	-77.58	10	11	1863	96372	whale oil	70	bbls		right whale, stowed down	Roscoe	AS0564	530	AV12570:096372
+AV12570	-33.05	-71.63	24	3	1864	96507	whale bone	700	lbs		bundled together	Roscoe	AS0564	531	AV12570:096507
+AV12570	-33.05	-71.63	29	3	1864	96512	whale bone	803	lbs		shipping to New Bedford on the President	Roscoe	AS0564	532	AV12570:096512
+AV12570	38.88	-27.21	23	7	1864	96628	sperm oil	93	bbls		stowed down	Roscoe	AS0564	533	AV12570:096628
+AV12570	38.94	-27.73	6	8	1864	96642	blackfish oil	5	bbls		sent with the Ohio	Roscoe	AS0564	534	AV12570:096642
+AV12570	39.55	-41.68	1	9	1864	96668	sperm oil	30	bbls		stowed oil	Roscoe	AS0564	535	AV12570:096668
+AV12570	39.01	-41.71	2	9	1864	96669	sperm oil	20	bbls		stowed down	Roscoe	AS0564	536	AV12570:096669
+AV12570	38.57	-45.03	14	10	1864	96711	sperm oil	40	bbls		stowed down	Roscoe	AS0564	537	AV12570:096711
+AV12950	NA	NA	9	3	1892	106719	sperm oil	2	bbls		this oil recv'd from Golden City (not sure why)	NA	AS0000	538	AV12950:106719
+AV12950	NA	NA	28	4	1892	106769	sperm oil	11	bbls		offloaded onto Pedro Verela; amount uncertain, illegible; oil is half of whale killed together on 4/24	NA	AS0000	539	AV12950:106769
+AV12950	NA	NA	29	7	1892	106861	sperm oil	1	casks		got from Goden City; from yesterday's whale	NA	AS0000	540	AV12950:106861
+AV12950	NA	NA	27	8	1892	106890	sperm oil	1	casks		gave to Golden City for helping to get whale 8/25	NA	AS0000	541	AV12950:106890
+AV12980	39.83	-39.26	29	6	1860	95143	oil	7	bbls		Stowed.	Scotland	AS0618	542	AV12980:095143
+AV12980	44.76	-31.16	9	8	1860	95184	sperm oil	3	casks		Took 3 casks sperm oil from Ocean as freight.	Scotland	AS0618	543	AV12980:095184
+AV12980	44.61	-30.66	17	8	1860	95192	oil	85	bbls		Stowed down.	Scotland	AS0618	544	AV12980:095192
+AV12980	44.61	-30.66	17	8	1860	95192	sperm oil	7	casks		Took 7 casks oil from Ocean for freight. 20 casks (115 bls) total from Ocean.	Scotland	AS0618	545	AV12980:095192
+AV12980	39.96	-40.11	11	9	1860	95217	sperm oil	60	bbls		Taken as freight from Bark Coursen of N.B.	Scotland	AS0618	546	AV12980:095217
+AV12980	39.91	-40.58	14	9	1860	95220	sperm oil	80	bbls		Taken in 16 casks from Bark Alabama of Nantucket as freight.	Scotland	AS0618	547	AV12980:095220
+AV12980	40.06	-40.1	25	9	1860	95231	sperm oil	1512	gallons		Transferred in 9 casks from Ship Polar Star of NB as freight.	Scotland	AS0618	548	AV12980:095231
+AV12980	40.56	-40.65	26	9	1860	95232	sperm oil	50	bbls		Transferred in 8 casks from Ship Lancer as freight.	Scotland	AS0618	549	AV12980:095232
+AV12980	40.13	-40.33	27	9	1860	95233	sperm oil	120	bbls		Transferred in 17 casks  from Bark Coursen for freight home.	Scotland	AS0618	550	AV12980:095233
+AV12980	40	-41	29	9	1860	95235	sperm oil	140	bbls		Transferred in 30 casks from Bark Arab as freight.	Scotland	AS0618	551	AV12980:095235
+AV12980	40.33	-40.66	30	9	1860	95236	oil	49	bbls		Transferred in 10 casks to O. Rover; her tally so far 128 bls transferred.	Scotland	AS0618	552	AV12980:095236
+AV12980	40.33	-40.66	30	9	1860	95236	sperm oil	274	gallons		Transferred in 1 cask to O. Rover as freight.	Scotland	AS0618	553	AV12980:095236
+AV12980	41.4	-39.4	20	10	1860	95256	oil	29	bbls		Stowed from 3 whales taken 10/18	Scotland	AS0618	554	AV12980:095256
+AV12980	38.73	-41.88	30	10	1860	95266	sperm oil	11	bbls		Stowed from kill on 10/27	Scotland	AS0618	555	AV12980:095266
+AV13262	-4.66	-26.03	18	10	1823	81739	oil	50	bbls		stowed down	South America	AS2405	556	AV13262:081739
+AV13348	21.3	-157.9	19	11	1856	93825	sperm oil	7461	gallons		I think this is the on board amount, not sure	Splendid	AS2420	557	AV13348:093825
+AV13348	21.3	-157.9	19	11	1856	93825	whale oil	16355	gallons		I think this is the on board amount, not sure	Splendid	AS2420	558	AV13348:093825
+AV13348	21.3	-157.9	19	11	1856	93825	bowhead oil	4500	bbls		I think this is the on board amount, not sure	Splendid	AS2420	559	AV13348:093825
+AV15101	37.61	-73.53	13	8	1863	96283	oil	25	bbls		Stowed.	Varnum H. Hill	AS2551	560	AV15101:096283
+AV15357	38.58	-28.72	2	9	1858	94477	oil	8	casks		took 8 cask of Oil onshore [Fayal]	Washington	AS2588	561	AV15357:094477
+AV15357	8.26	-17.26	20	11	1858	94556	blackfish oil	1	casks		stowed down 1 cask blackfish oil	Washington	AS2588	562	AV15357:094556
+AV15401	37.45	-71.83	28	6	1868	98064	oil	32	gallons		No unit given: Stowed down 32 oil. 	Washington Freeman	AS2586	563	AV15401:098064
+AV15401	36.65	-70.33	12	7	1868	98078	blackfish	2	bbls		Wording: Stowed down 2 barles...5 barles all total.	Washington Freeman	AS2586	564	AV15401:098078
+AV15401	36.63	-74.16	24	7	1868	98090	oil	6	bbls			Washington Freeman	AS2586	565	AV15401:098090
+AV15401	31.83	-77.96	19	8	1868	98116		52	bbls		Handwriting: could it be 12 bbles? 	Washington Freeman	AS2586	566	AV15401:098116
+AV15401	33	-76.8	31	8	1868	98128	oil	33	bbls		Stowed down 33 bls oil.	Washington Freeman	AS2586	567	AV15401:098128
+AV15401	41.64	-70.9	17	9	1868	98145	Whale oil	10	bbls			Washington Freeman	AS2586	568	AV15401:098145
+AV15401	41.64	-70.9	17	9	1868	98145	Sperm oil	175	bbls			Washington Freeman	AS2586	569	AV15401:098145
+AV15402	14.9	-24.7	15	2	1869	98296		NA			Trading blackfish oil for potatoes.	Washington Freeman	AS2586	570	AV15402:098296
+AV15402	13.79	-60.09	20	4	1869	98360		NA			Got in shore...employed in breaking out oil.	Washington Freeman	AS2586	571	AV15402:098360
+AV15402	14.51	-60.7	21	4	1869	98361		NA				Washington Freeman	AS2586	572	AV15402:098361
+AV15402	32.5	-75	8	9	1869	98501		NA			...use 1/2 bls of oil to break the... very rough weather.	Washington Freeman	AS2586	573	AV15402:098501
+AV15402	32.45	-64.57	17	9	1869	98510		NA			discharging oil onto a brigg to send home	Washington Freeman	AS2586	574	AV15402:098510
+AV15402	3.73	-23.71	24	11	1869	98578	oil	2	bbls		boiled two blackfish, 2 bbls.	Washington Freeman	AS2586	575	AV15402:098578
+AV15402	-32.63	-5.81	18	1	1870	98633	sperm oil	8	bbls		from the dead whale found previous day	Washington Freeman	AS2586	576	AV15402:098633
+AV15402	-15.66	3.08	26	3	1870	98700	sperm	43	bbls		fiinished boiling 43 bls.	Washington Freeman	AS2586	577	AV15402:098700
+AV15402	-15.93	-5.7	16	4	1870	98721		NA			breaking out oil to send home	Washington Freeman	AS2586	578	AV15402:098721
+AV15402	-15.93	-5.7	18	4	1870	98723		NA			discharging oil 6 casks 35 bls to schooner Phaba	Washington Freeman	AS2586	579	AV15402:098723
+AV15402	-6.87	11.73	8	6	1870	98774	whale oil	42	bbls		Finished boiling, stowed 42 bbls.	Washington Freeman	AS2586	580	AV15402:098774
+AV15402	-1.4	5.63	2	8	1870	98829		NA				Washington Freeman	AS2586	581	AV15402:098829
+AV15402	-1.4	5.63	2	8	1870	98829		NA			Trading blackfish meat for bananas and potatoes with island natives.	Washington Freeman	AS2586	582	AV15402:098829
+AV15402	-1.61	-18.25	16	8	1870	98843		NA			Note at end of 8/16/1870 says arrived in Fairhaven 9/30. 21 sperm; sent home 137 sperm; 30 wh.	Washington Freeman	AS2586	583	AV15402:098843
+AV15599	38.58	-28.72	2	8	1838	87141	sperm oil	75	bbls	Offloaded	sent 75 barrels of oil ashore	William Baker	AS2610	584	AV15599:087141
+AV15599	41.5	-71.3	19	4	1839	87401	sperm oil	180	bbls	Voyage total	3 sperm whales; from voyage summary	William Baker	AS2610	585	AV15599:087401
+AV15599	41.5	-71.3	19	4	1839	87401	whale oil	561	bbls	Voyage Total	8 rw;  from voyage summary	William Baker	AS2610	586	AV15599:087401
