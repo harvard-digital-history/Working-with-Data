@@ -1,8 +1,10 @@
-## 1. Understanding the Dataset
+## Understanding the Dataset
 
 Our dataset for **Day 1** will be the [Whaling Crew List Database](https://www.whalingmuseum.org/online_exhibits/crewlist/). This is a list of crew members leaving the port of New Bedford on whaling voyages between the years 1840 and 1927. It was compiled by the [New Bedford Whaling Museum](https://www.whalingmuseum.org) based on records kept by the chaplains of the New Bedford Port Society. It includes names and physical descriptions alongside information about vessels and specific voyages.
 
-### Discussion:
+- [Download a copy of the dataset](/Datasets/crewlist.csv)
+
+### Discussion
 - Provenance and production context
 - Data model and data types
 - Completeness and consistency of data
