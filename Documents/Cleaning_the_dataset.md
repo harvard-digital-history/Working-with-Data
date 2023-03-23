@@ -13,16 +13,18 @@
     - Clean spaces: *`Edit cells -> Common transforms -> Trim leading and trailing whitespace`*
     - Fix capitalization: *`Edit cells -> Common transforms -> To titlecase`*
     - Discuss clustering and fix abbreviations: *`Edit cells -> Cluster and edit…`*
-        - Key collision/fingerprint: 
-            - `Bark Ship` / `Ship Bark` – same, likely Schooner bark
+        - Key collision/fingerprint:
+            - `Bark Ship` / `Ship Bark` – same?, likely Schooner bark, although that's not on list
             - All to `Ship Bark`, then *`Merge selected and re-cluster`*
         - Key collision/cologne-phonetic:
-            - `Ship Bark` / `Sbark` – same
+            - `Ship Bark` / `Sbark` – these are not the same, Sbark == Steam Bark
             - All to `Ship Bark`, then *`Merge selected and re-cluster`*
         - Nearest neighbour/levenshtein:
             - Target is `Schr`/`Schooner`
             - Radius should be `4` and block chars `3` (overshoot to illustrate method)
-        - Fix `Schr`/`Schooner` -> all to `Schooner`, then *`Merge selected and close`*
+            - Fix `Schr`/`Schooner` -> all to `Schooner`, then *`Merge selected and close`*
+    - Direct edit fixes: *hover -> `edit`*:
+        - `Sbark` -> `Steam Bark`
 - **`ApproximateDeparture`**:
     - Convert to dates *`Edit cells -> Common transforms -> To date`*
         - Show problems: two-digit years assigned to 21st century -> **Undo!**
