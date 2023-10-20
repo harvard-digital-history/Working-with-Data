@@ -14,10 +14,11 @@ This is a two-day workshop with three hours of instruction on each day.
     - [Introduction to OpenRefine](/Documents/Introduction_to_OpenRefine.md)
 
 - #### 9:30 - Evaluating the dataset &nbsp; [:information_source:](/Documents/Evaluating_the_dataset.md)
-- #### 10:00 - Break
-- #### 10:05 - Cleaning the dataset &nbsp; [:information_source:](/Documents/Cleaning_the_dataset.md)
-- #### 11:25 - Break
-- #### 11:30 - Overview of programming languages
+- #### 9:45 - Cleaning the dataset &nbsp; [:information_source:](/Documents/Cleaning_the_dataset.md)
+- #### 10:15 - Break
+- #### 10:25 - Overview of programming languages
+- #### 10:50 - R setup, introduction to R/RStudio
+- #### 11:00 - Working with R
 
 </details>
 
